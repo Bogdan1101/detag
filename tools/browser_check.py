@@ -84,7 +84,7 @@ with sync_playwright() as p:
     page.get_by_label('Что хотите защитить?').fill('Магазин одежды')
     mail = page.get_by_role('link', name='Подготовить письмо').get_attribute('href')
     assert 'Тест' in unquote(mail) and 'Магазин одежды' in unquote(mail)
-    page.goto(BASE + '/no-such-page', wait_until='networkidle')
+    page.goto(BASE + '/404.html', wait_until='networkidle')
     assert page.get_by_role('heading', name='Страница не найдена').count()
     page.set_viewport_size({'width': 390, 'height': 844})
     for route in ['/', '/catalog.html', data['products'][0]['path'], '/kontakty.html', '/partneram.html', '/privacy/']:
