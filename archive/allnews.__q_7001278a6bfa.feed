@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Все новости</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://detag.ru"/>
+	<id>https://detag.ru/allnews.feed</id>
+	<updated>2026-10-12T19:11:29+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://detag.ru/allnews.feed?type=atom"/>
+	<entry>
+		<title>Euroshop 2017</title>
+		<link rel="alternate" type="text/html" href="https://detag.ru/allnews/19-novaya-novost.html"/>
+		<published>2017-02-01T10:16:00+00:00</published>
+		<updated>2017-02-01T10:16:00+00:00</updated>
+		<id>https://detag.ru/allnews/19-novaya-novost.html</id>
+		<author>
+			<name>Admin</name>
+			<email>info@site60minut.ru</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;images/euroshop heade.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EuroShop&lt;/strong&gt;&lt;span&gt; 2017 – многогранный выставочный проект, в центре которого – розничная торговля. Крупнейшая бизнес-площадка для специалистов ритейл-индустрии открывает двери раз в три года.  Немецкие и зарубежные эксперты обсуждают современные концепции ведения продаж, не упуская из виду смежные сектора: торговое оборудование, маркетинг и реклама, инфраструктура.&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;images/euroshop heade.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EuroShop&lt;/strong&gt;&lt;span&gt; 2017 – многогранный выставочный проект, в центре которого – розничная торговля. Крупнейшая бизнес-площадка для специалистов ритейл-индустрии открывает двери раз в три года.  Немецкие и зарубежные эксперты обсуждают современные концепции ведения продаж, не упуская из виду смежные сектора: торговое оборудование, маркетинг и реклама, инфраструктура.&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Новости" />
+	</entry>
+</feed>

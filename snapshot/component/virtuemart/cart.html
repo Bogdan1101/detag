@@ -1,0 +1,659 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+      <base href="/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Корзина</title>
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vmsite-ltr.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jblank/css/_styles.css" type="text/css" media="all"  />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/facebox.css" type="text/css" />
+  <script src="/_vendor/ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+  <script src="/_vendor/ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.ui.autocomplete.html.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noConflict.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmsite.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <!-- External tracking/widget omitted from the local copy. -->
+  <!-- External tracking/widget omitted from the local copy. -->
+  <script src="/components/com_virtuemart/assets/js/facebox.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		
+		});vmSiteurl = '/' ;
+vmLang = '&lang=ru' ;
+vmCartText = ' добавлен в корзину' ;
+vmCartError = 'Ошибка обновления корзины' ;
+loadingImage = '/components/com_virtuemart/assets/images/facebox/loading.gif'  ;
+closeImage = '/components/com_virtuemart/assets/images/facebox/closelabel.png' ; 
+Virtuemart.addtocart_popup = '1' ; 
+faceboxHtml = '<div id="facebox" style="display:none;"><div class="popup"><div class="content"></div> <a href="#" class="close"></a></div></div>' 
+
+  </script>
+  <!--[if IE 7]><link href="/templates/jblank/css/jb_lte-msie-7.css" type="text/css" rel="stylesheet" media="all" /><![endif]-->
+
+    <link rel="stylesheet" href="/templates/jblank/css/prettyPhoto.css" type="text/css" media="all" />
+    <script src="/templates/jblank/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+    <script src="/templates/jblank/js/jquery.corner.js" type="text/javascript"></script>
+    <script src="/templates/jblank/js/onload.js" type="text/javascript"></script>
+    <meta name="cmsmagazine" content="bf11fe824658f9259261ac3fc985d5e2" />
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery("#lightBox a[rel^='prettyPhoto']").prettyPhoto({
+                theme: 'dark_rounded'
+            });
+        });
+        //jQuery(document).ready(function(){
+        function slideSwitch() {
+
+            var active = jQuery('#slideshow img.active');
+            if (active.length == 0) active = jQuery('#slideshow img:last');
+
+            // use this to pull the images in the order they appear in the markup
+            var next = active.next().length ? active.next() : jQuery('#slideshow img:first');
+
+            active.addClass('last-active');
+
+            next.css({
+                    opacity: 0.0
+                })
+                .addClass('active')
+                .animate({
+                    opacity: 1.0
+                }, 1000, function() {
+                    active.removeClass('active last-active');
+                });
+
+        }
+        // setInterval("slideSwitch()", 5000);
+        //});       
+    </script>
+    <style type="text/css">
+        ul {
+            list-style: none;
+        }
+
+        #lightBox img {
+            border: 1px solid #000;
+            margin-left: 5px;
+        }
+
+        #lightBox li {
+            float: left;
+        }
+    </style>
+    <!-- External tracking/widget omitted from the local copy. -->
+
+
+    <!-- Put this script tag to the <head> of your page -->
+    <!-- External tracking/widget omitted from the local copy. -->
+<script src="/_local/offline.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="content">
+            <div class='top-block'>
+                <div class='header-center'>
+                    <div class='contact'>
+
+                        <div class='contactphone'>
+                            				+7 <span>(967)</span> 201 70 71
+
+                        </div>
+                        <div class='email'>
+                            			
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy806 = 's&#97;l&#101;s' + '&#64;';
+ addy806 = addy806 + 'd&#101;t&#97;g' + '&#46;' + 'r&#117;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy806 + '\'>');
+ document.write(addy806);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>	
+
+                        </div>
+                        <div class='O_O'></div>
+                    </div>
+
+
+                    <div class="soc">
+                        <a href="https://t.me/DetagRU"><img src="/img/tg.svg" alt=""></a>
+                        <a href="https://wa.me/79672017071"><img src="/img/wh.svg" alt=""></a>
+                    </div>
+
+
+                    <div class='form-news'>
+                        <form action='/index.html' method='post' id="form3">
+                            <input type='text' name='email' placeholder='Ваш Email' class='form-news-input' />
+                            <input type='hidden' name='sended' value='3'>
+                            <input type='submit' value='&nbsp;' class='form-news-submit'>
+                        </form>
+                    </div>
+                    <div class='O_O'></div>
+                </div>
+            </div>
+            <div class='header'>
+                <div class='header-center'>
+
+
+
+
+                    <div class='logo'><a href='/index.html'><img src='/images/logo.png' alt='На главную'></a></div>
+                    <div class='branch'>
+                        <div class='branchinner'>
+                            <div>Корзина:</div>
+                            <div class='brunch-count'>0</div>
+<a href='/component/virtuemart/cart.html'><span>0 товаров на сумму <span>0,00 руб.</span></span></a>
+
+
+                        </div>
+                    </div>
+
+
+
+          
+                </div>
+            </div>
+
+            <div class="main_menu">
+                <div class='center-block'>
+                    
+<ul class="menu">
+<li class="item-102 current deeper parent"><a href="/index.html" >Главная</a><ul><li class="item-115"><a href="/allnews/index.html" >Подпункт</a></li></ul></li><li class="item-120"><a href="/o-kompanii.html" >О компании</a></li><li class="item-112"><a href="/catalog.html" >Каталог</a></li><li class="item-118"><a href="/aktsii.html" >Акции</a></li><li class="item-113"><a href="/oplata-i-dostavka.html" >Оплата и Доставка</a></li><li class="item-104"><a href="/kontakty.html" >Контакты</a></li><li class="item-121"><a href="/nashi-klienty.html" >Наши клиенты</a></li><li class="item-122"><a href="/partneram.html" >Партнерам</a></li></ul>
+
+
+                    <!--BEGIN Search Box -->
+<form action="/component/virtuemart/search.html" method="get">
+<div class="search">
+<input style="vertical-align :middle;" name="keyword" id="mod_virtuemart_search" maxlength="20" alt=" " class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" /><input type="submit" value=" " class="button" onclick="this.form.keyword.focus();"/></div>
+		<input type="hidden" name="limitstart" value="0" />
+		<input type="hidden" name="option" value="com_virtuemart" />
+		<input type="hidden" name="view" value="category" />
+	  </form>
+
+<!-- End Search Box -->
+
+                    <div class='O_O'></div>
+                </div>
+            </div>
+
+
+            <script type="text/javascript">
+                function slideSwitch() {
+                    var $active = jQuery('#slideshow IMG.active');
+
+                    if ($active.length == 0) $active = jQuery('#slideshow IMG:last');
+
+                    // use this to pull the images in the order they appear in the markup
+                    var $next = $active.next().length ? $active.next() :
+                        jQuery('#slideshow IMG:first');
+
+                    // uncomment the 3 lines below to pull the images in random order
+
+                    // var $sibs  = $active.siblings();
+                    // var rndNum = Math.floor(Math.random() * $sibs.length );
+                    // var $next  = $( $sibs[ rndNum ] );
+
+
+                    $active.addClass('last-active');
+
+                    $next.css({
+                            opacity: 0.0
+                        })
+                        .addClass('active')
+                        .animate({
+                            opacity: 1.0
+                        }, 1000, function() {
+                            $active.removeClass('active last-active');
+                        });
+                }
+
+                jQuery(function() {
+                    setInterval("slideSwitch()", 6000);
+                });
+            </script>
+
+            <style type="text/css">
+                /*** set the width and height to match your images **/
+
+                #slideshow {
+                    position: relative;
+
+                    overflow: hidden;
+
+                }
+
+                #slideshow IMG:first-child {
+                    position: relative;
+                }
+
+                #slideshow IMG {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 8;
+                    opacity: 0.0;
+                    width: 100%;
+                }
+
+                #slideshow IMG.active {
+                    z-index: 10;
+                    opacity: 1.0;
+                }
+
+                #slideshow IMG.last-active {
+                    z-index: 9;
+                }
+            </style>
+
+
+
+
+
+            <div id="slideshow">
+                <img src='/images/promo/promo.jpg'  class='active'><img src='/images/promo/promo2.jpg' >
+            </div>
+
+
+
+            <div style='clear:both;padding:0px 0 0;font-size:1px;'></div>
+            <!-- HEADER-->
+            <!--****************  Конец шапки ********************** -->
+
+            <div class='catalog'>
+                                    <div>
+                        
+                                                <h1>Корзина</h1>
+                        
+                        
+                        
+<div id="system-message-container">
+</div>
+
+                                                                         
+<div class="cart-view">
+<!--	<div>
+	<div class="width50 floatleft">
+		<h1>Корзина</h1>
+	</div>
+		<div class="width50 floatleft right">
+		<a class="continue_link" href="/component/virtuemart/" >Продолжить покупки</a> 
+	</div>
+<div class="clear"></div>
+</div>   -->
+
+  
+
+<div class="billto-shipto">
+	<div class="floatleft">
+    	
+	<input type="hidden" name="billto" value=""/>
+	</div>
+	<div class="width50 floatleft" style="display: none">
+		<span><span class="vmicon vm2-shipto-icon"></span>  --> 		
+</span>  		
+ 			
+<div class="output-shipto">    		
+ 					
+  <!-- <span class="titles"></span> --> 					
+ 					
+  <!--	<span class="values" ></span>
+  					  						<span class="values" ></span>
+  						<br class="clear" />    --> 					
+ 		
+  <div class="clear"></div>
+  		</div>
+  		  		<a class="details" href="/index.html">
+  		  		</a>
+  	</div>
+  	<div class="clear"></div> 
+  </div> 
+  <fieldset>	
+    <table 		class="cart-summary branch " 		cellspacing="0" 		cellpadding="0" 		border="0" 		width="100%">		
+      <tr class='header-table'>	
+        <td colspan=4 style='background:none;'>
+        <table class='inner-hr'>
+           <tr>
+           <td align="left" style='width:55%;'>
+          Название        </td>			
+        <!--<th align="left">
+                  </th>	-->		
+        <td 				align="center" 			style='width:15%;'>
+          Цена:         </td>			
+        <td 				align="right" 				style='width:15%;'>
+          Кол-во			
+        </td>                                        
+                                        
+      <!--  <th align="right"style='width:55%;'>
+                  </th>	-->			
+                                        
+        <!--<th align="right" width="60px">
+          <span  style='color:gray'>Скидка        </th>	-->			
+        <td align="right" style='width:15%;background:none;'>
+          Сумма        </td>	
+        </tr>
+        </table>		
+        </td>		
+        
+      </tr>		
+		
+      <!--Begin of SubTotal, Tax, Shipment, Coupon Discount and Total listing -->                  
+      		
+     <!--  <tr>			
+        <td colspan="4">&nbsp;</td>			
+        <td colspan="">
+          <hr /></td>		
+      </tr>		  
+      <tr class="sectiontableentry1">			
+        <td colspan="4" align="right">
+          </td>                        
+        			
+        <td align="right">
+          </td>                        
+        			
+        <td align="right">
+          </td>			
+        <td align="right">
+          </td>		  
+      </tr>	-->	
+			
+    <!--   <tr class="sectiontableentry">				
+        <td colspan="4" align="right">
+           </td>                                   
+        				
+        <td align="right"> </td>                                
+        				
+        <td align="right">
+           </td>				
+        <td align="right">
+           </td>			
+      </tr>	-->			
+		
+			
+      <!--<tr class="sectiontableentry2">				
+        <td colspan="4" align="left">	-->				    
+				
+          					 
+	<!--			</td>              
+        					
+        <td align="right">
+           </td>                                        
+        					
+        <td align="right">&nbsp;</td>					
+        <td align="right">
+           </td>				
+        					
+        <td colspan="6" align="left">&nbsp;</td>-->						
+			    
+     <!-- </tr> -->		
+      		
+      <tr class="sectiontableentry1">                    
+        <td colspan="3" align="left">
+        		
+        
+                   				
+          Не выбран способ доставки				    <br /> 						
+<a data-local-unavailable="true" href="#" class="">Выбрать способ доставки</a>                                     
+          								
+          <td align="right">
+             </td>		
+      </tr>		
+       <tr class="sectiontableentry1">                          
+        <td colspan="3" align="left">Оплата:	
+                                            
+
+          <span class="vmpayment_name">Наличными</span>                                 
+                   
+        </td>                          
+			
+        <td align="right">
+           </td>			
+      </tr>				
+			
+     <!-- <tr class="sectiontableentry">				
+        <td colspan="4" align="right">
+           </td>				
+        <td align="right">
+           </td>				
+        <td align="right">
+         </td>				
+        <td align="right">
+           </td>			
+      </tr>	-->		
+			
+     <!-- <tr class="sectiontableentry">				
+        <td colspan="4" align="right">
+           </td>                                     
+        				
+        <td align="right">
+        </td>                                
+        				
+        <td align="right">
+           </td>				
+        <td align="right">
+           </td>			
+      </tr>		-->			
+		  
+    <!--  <tr>			
+        <td colspan="4">&nbsp;</td>			
+        <td colspan="">
+          <hr /></td>		  
+      </tr>		  
+      <tr class="sectiontableentry2">			
+        <td colspan="4" align="right">
+          : </td>                        
+        			
+        <td align="right"> 
+           </td>                        
+        			
+        <td align="right"> 
+           </td>			
+        <td align="right"><strong>
+            </strong></td>		  
+      </tr>	  	-->		    
+		       
+      <tr class="sectiontableentry2">					    
+        <td colspan="3" align="right">
+          Итого:					    
+        <td align="right"><strong></strong></td>				      
+      </tr>				      
+	
+      		    <tr class='footer-table'>
+                <td colspan='4'></td>
+              </tr>
+    </table>
+  </fieldset>      
+	<form method="post" id="checkoutForm" name="checkoutForm" action="/component/virtuemart/cart/checkout.html">
+
+				<!--<div class="customer-comment marginbottom15">
+			<span class="comment">Оставить комментарий</span><br />
+			<textarea class="customer-comment" name="customer_comment" cols="50" rows="4"></textarea>
+		</div> -->
+		
+		
+				<div class="checkout-button-top">
+      <div style="display: none">
+			<input type="hidden" name="tosAccepted" value="0"><input class="terms-of-service" id="tosAccepted" type="checkbox" name="tosAccepted" value="1"  /><input type="hidden" name="tosAccepted" value="1"><span class="tos">Пожалуйста, прочтите и примите Условия обслуживания.</span> </div>
+      <a class="vm-button-correct" href="javascript:document.checkoutForm.submit();" ><span>Оформить заказ</span></a>		</div>
+		
+		<input type='hidden' name='task' value='checkout'/>
+		<input type='hidden' name='option' value='com_virtuemart'/>
+		<input type='hidden' name='view' value='cart'/>
+	</form>
+</div>
+
+                                                
+
+                                            </div>
+                                        
+
+                     <a href='/poluchit-kosultatsiyu.html' class='button-form'>
+                        <img src='/templates/jblank/img/button3.jpg' alt='получить консультацию'>
+                    </a>
+                                    </div>
+                <div class='O_O'></div>
+                <!--- FORM / NEWS --->
+
+                <!-- footer -->
+                <div class='O_O'></div>
+            </div>
+            <div id="clear"></div>
+        </div>
+    </div>
+    <div id="footer">
+
+        <div class='center-footer'>
+            <div class='logo'><a href='/index.html'><img src='/images/logo2.png' alt='На главную'></a></div>
+
+            <div class="Live">
+                <!--LiveInternet counter-->
+                <!-- External tracking/widget omitted from the local copy. -->
+            </div>
+            <div class="jast-site">
+                Разработка сайта &mdash;
+                <a href="https://isite.ru">iSite</a><br>
+                <a href="https://isite.ru">создание сайта</a>
+            </div>
+
+
+            <div class='O_O'></div>
+        </div>
+    </div>
+    <div id='hiddenMenu' style='display: none'>
+        <div class="left-menu">
+<div class="top-menu"> </div>
+<div class="menu-catalog">
+<ul class="VMmenu" ID="VMmenu278_8017" >
+
+<li class="VmClose">
+	<div >
+		<a href="/component/virtuemart/raskhodnye-materialy-i-aksessuary.html" >Расходные материалы и аксессуары</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/component/virtuemart/protivokrazhnye-sistemy.html" >Противокражное оборудование</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/component/virtuemart/spetsialnye-datchiki.html" >Специальные датчики</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/component/virtuemart/zashchitnye-boksy-sejfery.html" >Защитные боксы (сейферы)</a>	</div>
+</li>
+</ul>
+</div>
+<div class="bottom-menu"></div>
+</div>
+
+
+    </div>
+    <!-- BEGIN JIVOSITE CODE {literal} -->
+    <!-- External tracking/widget omitted from the local copy. -->
+    <!-- {/literal} END JIVOSITE CODE -->
+    <!-- External tracking/widget omitted from the local copy. -->
+    <!-- External tracking/widget omitted from the local copy. -->
+
+    <div id="cookie-banner" style="display:none;" class="cookie-banner">
+        <div class="cookie-banner__content">
+    <span>
+      Мы используем cookie для улучшения работы сайта.
+      <a href="/cookies.html" target="_blank">Подробнее о cookies</a>.
+    </span>
+            <button id="cookie-ok" class="cookie-banner__btn">ОК</button>
+        </div>
+    </div>
+
+    <style>
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #2b2b2b;
+            color: #fff;
+            padding: 15px;
+            font-size: 14px;
+            z-index: 9999;
+            box-shadow: 0 -2px 5px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner__content {
+            max-width: 960px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner__content a {
+            color: var(--color-primary);
+            text-decoration: underline;
+            margin-left: 5px;
+        }
+
+        .cookie-banner__btn {
+            background: url("/templates/jblank/img/menu2.jpg") no-repeat center;
+            color: white;
+            border: none;
+            padding: 8px 14px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin: 0 14px;
+        }
+
+        .cookie-banner__btn:hover {
+            filter: gray;
+            -webkit-filter: grayscale(100%);
+        }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const banner = document.getElementById('cookie-banner');
+            const button = document.getElementById('cookie-ok');
+
+            // Проверка, было ли уже скрытие баннера
+            if (!localStorage.getItem('cookieAccepted')) {
+                banner.style.display = 'block';
+            }
+
+            button.addEventListener('click', function () {
+                // Устанавливаем метку на 24 часа
+                const expirationTime = Date.now() + 24 * 60 * 60 * 1000;
+                localStorage.setItem('cookieAccepted', expirationTime);
+                banner.style.display = 'none';
+            });
+
+            // Проверка срока действия
+            const savedTime = localStorage.getItem('cookieAccepted');
+            if (savedTime && Date.now() > parseInt(savedTime, 10)) {
+                localStorage.removeItem('cookieAccepted');
+                banner.style.display = 'block';
+            }
+        });
+    </script>
+
+</body>
+
+</html>

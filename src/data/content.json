@@ -1,0 +1,511 @@
+{
+  "source": "https://detag.ru/",
+  "snapshotDate": "2026-10-12",
+  "categories": [
+    {
+      "id": "protivokrazhnye-sistemy",
+      "title": "Противокражное оборудование",
+      "path": "/catalog/protivokrazhnye-sistemy.html",
+      "parentId": null,
+      "image": "/images/stories/virtuemart/category/resized/3.jpg.13_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "am-sistemy",
+      "title": "Акустомагнитные системы",
+      "path": "/catalog/protivokrazhnye-sistemy/am-sistemy.html",
+      "parentId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/category/resized/sd-156b8_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "deaktivatory-i-ruchnye-detektory",
+      "title": "Деактиваторы и ручные детекторы",
+      "path": "/catalog/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "parentId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/category/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "radiochastotnye-sistemy",
+      "title": "Радиочастотные системы",
+      "path": "/catalog/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "parentId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/category/resized/sd-102b_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "s-emniki",
+      "title": "Съемники",
+      "path": "/catalog/protivokrazhnye-sistemy/s-emniki.html",
+      "parentId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/category/resized/s%D1%8Aemnik_200x200.png",
+      "description": ""
+    },
+    {
+      "id": "raskhodnye-materialy-i-aksessuary",
+      "title": "Расходные материалы и аксессуары",
+      "path": "/catalog/raskhodnye-materialy-i-aksessuary.html",
+      "parentId": null,
+      "image": "/images/stories/virtuemart/category/resized/datchiki%20protivokrazhnye_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "etiketka-akustomagnitnaya",
+      "title": "Этикетка акустомагнитная",
+      "path": "/catalog/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "parentId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/category/resized/drs_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "etiketka-radiochastotnaya",
+      "title": "Этикетка радиочастотная",
+      "path": "/catalog/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "parentId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/category/resized/radiochastotnaya%20etiketka_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "radiochastotnye-datchiki",
+      "title": "Акустомагнитные датчики",
+      "path": "/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "parentId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/category/resized/82729659_w200_h200_94405_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "title": "Радиочастотные датчики",
+      "path": "/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "parentId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/category/resized/birki%20antikrazhnye_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "spetsialnye-datchiki",
+      "title": "Специальные датчики",
+      "path": "/catalog/spetsialnye-datchiki.html",
+      "parentId": null,
+      "image": "/images/stories/virtuemart/category/resized/i%20%289%29_200x200.jpg",
+      "description": ""
+    },
+    {
+      "id": "zashchitnye-boksy-sejfery",
+      "title": "Защитные боксы (сейферы)",
+      "path": "/catalog/zashchitnye-boksy-sejfery.html",
+      "parentId": null,
+      "image": "/images/stories/virtuemart/category/resized/ms-canning-food_200x200.jpg",
+      "description": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "akustomagnitnaya-protivokrazhnaya-sistema-ultra",
+      "title": "Акустомагнитная противокражная система Ultra",
+      "path": "/component/virtuemart/protivokrazhnye-sistemy/am-sistemy/akustomagnitnaya-protivokrazhnaya-sistema-ultra-detail.html",
+      "categoryId": "am-sistemy",
+      "groupId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/product/sd-156b.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Самая оптимальная акустомагнитная система по соотношению цена/качество. </p>\n<p>Обеспечивает высокую детекцию на проходах до 160 см между рамками и до 80 см с внешних сторон.</p>\n<p>Для более широкого входа в магазин используется конфигурация из нескольких антенн в линейке.</p>        ",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "deaktivator-radiochastotnyj-beskontaktnyj",
+      "title": "Деактиватор радиочастотный бесконтактный",
+      "path": "/component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory/deaktivator-radiochastotnyj-beskontaktnyj-detail.html",
+      "categoryId": "deaktivatory-i-ruchnye-detektory",
+      "groupId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/product/906952adf351b16e947eab55166c1556.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p><strong>Бесконтактный деактиватор радиочастотных этикеток.</strong> Предназначен для деактивации защитной метки на кассовом узле магазина. Встроенная звуковая и световая сигнализация позволяет определить наличие этикетки или жесткого датчика на товаре или внутри упаковки с товаром. Высота детекции до 35 см позволяет без проблем обнаружить и деактивировать этикетку на крупном и объемном товаре, например, пуховики, электробытовые товары в упаковке и т.п.</p>\n<p>Не требует специальных навыков при установке, установить данную модель может любой сотрудник магазина, что поможет Вам значительно сэкономить на услугах по монтажу стороннего специалиста. Достаточно выбрать удобное место на кассе и подключить устройство к электросети. </p>        ",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "radiochastotnaya-protivokrazhnaya-sistema-sd-101",
+      "title": "Радиочастотная противокражная система SD 121",
+      "path": "/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-101-detail.html",
+      "categoryId": "radiochastotnye-sistemy",
+      "groupId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/product/sistema%20sd%20101.png",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Экономичная противокражная система, предназначена для защиты стандартных проходов до 1,2 м. Экономичное решение для небольших магазинов.</p>        ",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "radiochastotnaya-protivokrazhnaya-sistema-sd-102b",
+      "title": "Радиочастотная противокражная система SD 102B",
+      "path": "/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-102b-detail.html",
+      "categoryId": "radiochastotnye-sistemy",
+      "groupId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/product/sd-102b.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>  Оптимальная антикражная система для защиты широких проходов.  SD 102 обеспечит надежную защиту любого предприятия торговли: магазинов одежды, спорттоваров, аптек, гипер и супермаркетов.</p>\n<p>Сбалансированное решение позволяет с минимальными инвестициями добиться эффективной защиты товара от краж.  Стабильно высокая вероятность детекции является главным преимуществом данной модели.</p>        ",
+      "specs": [
+        {
+          "label": "Оптимальная антикражная система для защиты широких проходов. SD 102 обеспечит надежную защиту любого предприятия торговли",
+          "value": "магазинов одежды, спорттоваров, аптек, гипер и супермаркетов."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "s-emnik-protivokrazhnykh-datchikov-universalnyj-usilennyj",
+      "title": "Съемник противокражных датчиков универсальный усиленный",
+      "path": "/component/virtuemart/protivokrazhnye-sistemy/s-emniki/s-emnik-protivokrazhnykh-datchikov-universalnyj-usilennyj-detail.html",
+      "categoryId": "s-emniki",
+      "groupId": "protivokrazhnye-sistemy",
+      "image": "/images/stories/virtuemart/product/s%D1%8Aemnik.png",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Съемник для антикражных датчиков любой технологии, усиленный. 12000 GS. Имеет отверстия для крепления к кассовому столу, также может быть зафиксирован на двусторонний скотч.</p>\n<p>Обращаем Ваше внимание на то, что в целях недопущения противоправных действий, мы не продаем съемные устройства частным лицам. Съемники могут быть приобретены торговыми сетями вместе с датчиками или противокражным оборудованием.</p>        ",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "etiketka-akustomagnitnaya-am-mus-iii-3kh-konturnaya",
+      "title": "Этикетка акустомагнитная AM MUS III 3х контурная",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya/etiketka-akustomagnitnaya-am-mus-iii-3kh-konturnaya-detail.html",
+      "categoryId": "etiketka-akustomagnitnaya",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/i%20%286%29.jpg",
+      "descriptionHtml": "",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "etiketka-radiochastotnaya-40kh40-mm-belaya",
+      "title": "Этикетка радиочастотная 40х40 мм белая",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-belaya-detail.html",
+      "categoryId": "etiketka-radiochastotnaya",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/13956.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер: 40х40 мм</p>\n<p>Частота: 8,2 МГц</p>\n<p>Цвет: белый</p>\n<p>Упаковка:  1000 или 2000 шт\\рул ; 20 000 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "40х40 мм"
+        },
+        {
+          "label": "Частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Цвет",
+          "value": "белый"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 или 2000 шт\\рул ; 20 000 шт.\\кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "etiketka-radiochastotnaya-40kh40-mm-s-lozhnym-shtrikh-kodom",
+      "title": "Этикетка радиочастотная 40х40 мм с ложным штрих-кодом",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "categoryId": "etiketka-radiochastotnaya",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/i%20%285%299.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер: 40х40 мм</p>\n<p>Частота: 8,2 МГц</p>\n<p>Цвет: белая с ложным штрих-кодом</p>\n<p>Упаковка:  1000 или 2000 шт\\рул ; 20 000 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "40х40 мм"
+        },
+        {
+          "label": "Частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Цвет",
+          "value": "белая с ложным штрих-кодом"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 или 2000 шт\\рул ; 20 000 шт.\\кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "etiketka-radiochastotnaya-kruglaya-d40-mm-belaya",
+      "title": "Этикетка радиочастотная круглая D40 мм белая",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-belaya-detail.html",
+      "categoryId": "etiketka-radiochastotnaya",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/175336.jpg",
+      "descriptionHtml": "",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "etiketka-radiochastotnaya-kruglaya-d40-mm-s-lozhnym-shtrikh-kodom",
+      "title": "Этикетка радиочастотная круглая D40 мм с ложным штрих-кодом",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "categoryId": "etiketka-radiochastotnaya",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/r4_rf_round-500x500.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер: D 40 мм</p>\n<p>Частота: 8,2 МГц</p>\n<p>Цвет: белая с ложным штрих-кодом</p>\n<p>Упаковка:  1000 или 2000 шт\\рул ; 20 000 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "D 40 мм"
+        },
+        {
+          "label": "Частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Цвет",
+          "value": "белая с ложным штрих-кодом"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 или 2000 шт\\рул ; 20 000 шт.\\кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "butylochnyj-datchik",
+      "title": "Бутылочный датчик",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/butylochnyj-datchik-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/bottle_tag.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Датчик для защиты алкогольной продукции, также может использоваться с другими группами товаров, например, электроинструмент, посуда, предметы интерьера и т.д.</p>        ",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "datchik-antikrazhnyj-mini-pencil",
+      "title": "Датчик антикражный Mini Pencil",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-antikrazhnyj-mini-pencil-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/mini%20pensil%20s%20gvozdikom.jpg",
+      "descriptionHtml": "",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "datchik-radiochastotnyj-40kh50",
+      "title": "Датчик радиочастотный 40х50 мм",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-40kh50-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/t-001%20%28mini%20square%29.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер: 48х42 мм</p>\n<p>Цвет: черный, белый</p>\n<p>Частота: 8,2 МГц</p>\n<p>Упаковка: 1000 шт./кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "48х42 мм"
+        },
+        {
+          "label": "Цвет",
+          "value": "черный, белый"
+        },
+        {
+          "label": "Частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 шт./кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "datchik-radiochastotnyj-mini-square-belyj",
+      "title": "Датчик радиочастотный Mini Square белый",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-mini-square-belyj-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/mini%20square%20belyj.jpg",
+      "descriptionHtml": "",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "datchik-radiochastotnyj-urta-bell-30",
+      "title": "Датчик радиочастотный Urta (Bell 30)",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-urta-bell-30-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/datchik%20urta.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер:  D 30 мм</p>\n<p>Цвет: черный, белый </p>\n<p>Рабочая частота: 8,2 МГц</p>\n<p>Упаковка: 1000 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "D 30 мм"
+        },
+        {
+          "label": "Цвет",
+          "value": "черный, белый"
+        },
+        {
+          "label": "Рабочая частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 шт.\\кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "datchik-rakushka-designer-golg-d-63-mm",
+      "title": "Датчик ракушка Designer Golf D 63 мм",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-golg-d-63-mm-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/img_0024.jpg",
+      "descriptionHtml": "",
+      "specs": [],
+      "price": null
+    },
+    {
+      "id": "datchik-rakushka-designer-midi-d-54-mm",
+      "title": "Датчик ракушка Designer Midi D 54 мм",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-midi-d-54-mm-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/datchik%20rakushka2.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер: D 54 мм</p>\n<p>Цвет: белый, черный</p>\n<p>Частота: 8,2 МГц</p>\n<p>Упаковка: 500 шт./кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "D 54 мм"
+        },
+        {
+          "label": "Цвет",
+          "value": "белый, черный"
+        },
+        {
+          "label": "Частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Упаковка",
+          "value": "500 шт./кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "datchik-rakushka-designer-mini-d-45-mm",
+      "title": "Датчик ракушка Designer Mini D 45 мм",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-mini-d-45-mm-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/datchik%20rakushka%20mini.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер:  D 45 мм</p>\n<p>Цвет: черный, белый </p>\n<p>Рабочая частота: 8,2 МГц</p>\n<p>Упаковка: 1000 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "D 45 мм"
+        },
+        {
+          "label": "Цвет",
+          "value": "черный, белый"
+        },
+        {
+          "label": "Рабочая частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Упаковка",
+          "value": "1000 шт.\\кор."
+        }
+      ],
+      "price": null
+    },
+    {
+      "id": "protivokrazhnyj-datchik-bell-tag",
+      "title": "Противокражный датчик Bell Tag",
+      "path": "/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/protivokrazhnyj-datchik-bell-tag-detail.html",
+      "categoryId": "radiochastotnye-datchiki2017-03-02-14-49-30",
+      "groupId": "raskhodnye-materialy-i-aksessuary",
+      "image": "/images/stories/virtuemart/product/1_15.jpg",
+      "descriptionHtml": "\n\t    \t<span>Описание</span>\n\t<p>Размер:  D 50 мм</p>\n<p>Цвет: черный, белый </p>\n<p>Рабочая частота: 8,2 МГц</p>\n<p>Упаковка: 500 шт.\\кор.</p>        ",
+      "specs": [
+        {
+          "label": "Размер",
+          "value": "D 50 мм"
+        },
+        {
+          "label": "Цвет",
+          "value": "черный, белый"
+        },
+        {
+          "label": "Рабочая частота",
+          "value": "8,2 МГц"
+        },
+        {
+          "label": "Упаковка",
+          "value": "500 шт.\\кор."
+        }
+      ],
+      "price": null
+    }
+  ],
+  "pages": [
+    {
+      "path": "/aktsii.html",
+      "title": "Акции",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p><img src=\"/images/%20%201.jpg\" alt=\"Иллюстрация\" loading=\"lazy\"></p>\n\t"
+    },
+    {
+      "path": "/allnews/19-novaya-novost.html",
+      "title": "Euroshop 2017",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p> </p>\n<p> </p>\n<p><strong><img src=\"/images/euroshop%20heade.png\" alt=\"Иллюстрация\" loading=\"lazy\"></strong></p>\n<p><strong>EuroShop</strong><span> 2017 – многогранный выставочный проект, в центре которого – розничная торговля. Крупнейшая бизнес-площадка для специалистов ритейл-индустрии открывает двери раз в три года.  Немецкие и зарубежные эксперты обсуждают современные концепции ведения продаж, не упуская из виду смежные сектора: торговое оборудование, маркетинг и реклама, инфраструктура.</span></p>\n\t"
+    },
+    {
+      "path": "/cookies.html",
+      "title": "Согласие на использование файлов Cookies",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p>Сайт <strong>detag.ru</strong> использует файлы cookie (информацию о предыдущих посещениях сайта) для повышения удобства пользователей и персонализации предоставляемых сервисов. Мы серьезно относимся к защите персональных данных — ознакомьтесь с нашей политикой обработки данных. При желании вы можете отключить сохранение cookie в настройках вашего браузера.</p>\n<h3>Политика использования cookie</h3>\n<p>На нашем сайте и в мобильных приложениях используются файлы cookie. Продолжая пользоваться сайтом, вы подтверждаете согласие с их использованием и ознакомление с данной политикой.</p>\n<h3>Что такое cookie?</h3>\n<p>Cookie — это небольшие текстовые файлы, которые сохраняются в вашем браузере или на устройстве при посещении сайта. Они помогают обеспечить корректную работу сайта и улучшают пользовательский опыт. Все персональные данные, собираемые с помощью cookie, обрабатываются в соответствии с нашей политикой конфиденциальности.</p>\n<h3>Какие типы cookie мы используем?</h3>\n<p><strong>detag.ru</strong> использует несколько типов файлов cookie:</p>\n<ul>\n<li>\n<p><strong>Постоянные</strong> — хранятся на вашем устройстве до момента удаления или окончания срока действия.</p>\n</li>\n<li>\n<p><strong>Сессионные</strong> — активны только в течение одной сессии и автоматически удаляются после закрытия браузера.</p>\n</li>\n<li>\n<p><strong>Сторонние</strong> — размещаются внешними сервисами, например, аналитикой или рекламными платформами.</p>\n</li>\n</ul>\n<p>Также файлы cookie делятся по назначению:</p>\n<ul>\n<li>\n<p><strong>Обязательные</strong> — необходимы для корректной работы сайта. Без них некоторые функции могут быть недоступны.</p>\n</li>\n<li>\n<p><strong>Функциональные</strong> — улучшают навигацию и позволяют запоминать ваши настройки.</p>\n</li>\n<li>\n<p><strong>Аналитические</strong> — помогают собирать статистику о посещениях и действиях на сайте.</p>\n</li>\n<li>\n<p><strong>Рекламные</strong> — используются для показа персонализированной рекламы и предложений.</p>\n</li>\n</ul>\n<h3>Для чего нужны cookie?</h3>\n<p>Файлы cookie позволяют нам сделать использование сайта удобнее: запомнить ваши предпочтения, предложить подходящий контент, адаптировать интерфейс под ваше устройство. Мы не используем cookie во вред или для получения лишней информации.</p>\n<h3>Можно ли управлять cookie?</h3>\n<p>Да, вы можете самостоятельно управлять cookie через настройки браузера. Однако отключение некоторых типов cookie может повлиять на работу сайта.</p>\n<p>Примеры инструкций по настройке:</p>\n<ul>\n<li>\n<p>Google Chrome</p>\n</li>\n<li>\n<p>Safari</p>\n</li>\n<li>\n<p>Mozilla Firefox</p>\n</li>\n</ul>\n<p>Мы рекомендуем периодически проверять эту Политику, так как условия могут обновляться.</p>\n<h3>Согласие на обработку данных</h3>\n<p>Продолжая пользоваться сайтом <strong>detag.ru</strong>, вы даете согласие на обработку данных, включая файлы cookie, информацию о действиях на сайте, устройстве, времени посещения и других технических данных. Эти данные обрабатываются с использованием автоматизированных систем аналитики, в том числе могут передаваться партнерам и аффилированным лицам, в том числе с трансграничной передачей.</p>\n<p>Цели обработки:</p>\n<ul>\n<li>\n<p>улучшение работы сайта и сервисов;</p>\n</li>\n<li>\n<p>развитие продуктов и услуг;</p>\n</li>\n<li>\n<p>обеспечение безопасности;</p>\n</li>\n<li>\n<p>анализ пользовательских предпочтений;</p>\n</li>\n<li>\n<p>предоставление релевантной информации и предложений.</p>\n</li>\n</ul>\n<p>Согласие действует с момента его предоставления и сохраняется в течение всего времени использования сайта. Если вы не согласны с условиями обработки, пожалуйста, прекратите использование сайта.</p>\n\t"
+    },
+    {
+      "path": "/",
+      "title": "Главная",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p>Уважаемые покупатели, если у Вас возникли вопросы или необходима консультация по оборудованию, вы всегда можете воспользоваться формой обратной связи или позвоните по телефонам, указанным в разделе КОНТАКТЫ.</p>\n\t"
+    },
+    {
+      "path": "/kontakty.html",
+      "title": "Контакты",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p><span><em><strong>+7 (967) 201 70 71</strong></em></span></p>\n<p> </p>\n<p><span><strong>Отдел продаж:</strong></span></p>\n<p><span><strong>\n Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.\n </strong></span></p>\n<p><span><strong><br></strong></span></p>\n<p><span><strong>Общие вопросы:</strong></span></p>\n<p>\n Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.\n </p>\n<p> </p>\n<p> </p>\n<p> </p>\n\t"
+    },
+    {
+      "path": "/nashi-klienty.html",
+      "title": "Наши клиенты",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p><img src=\"/images/%20.png\" alt=\"Иллюстрация\" loading=\"lazy\"></p>\n<p> </p>\n\t"
+    },
+    {
+      "path": "/o-kompanii.html",
+      "title": "О компании",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p><span>   Наш интернет-магазин магазин создан для обеспечения предприятий торговли высокотехнологичным антикражным оборудованием и расходными материалами высокого качества от ведущих производителей.  </span></p>\n<p><strong>Миссия компании</strong>    Максимально эффективное и сбалансированное обеспечение объектов комплексными системами безопасности, выполнение долгосрочных контрактов с высокой степенью надежности.</p>\n<p><strong>Преимущества</strong></p>\n<ul>\n<li><em>конкурентные цены </em></li>\n<li><em>высокий уровень сервиса</em></li>\n<li><em>минимальные сроки поставки</em></li>\n<li><em>индивидуальный подход</em></li>\n<li><em>развитая партнерская сеть</em></li>\n</ul>\n<div><strong><br></strong></div>\n<div><strong>Будем рады видеть Вас в числе наших клиентов!</strong></div>\n<p> </p>\n<p> <img src=\"/images/144378702342511.jpg\" alt=\"Иллюстрация\" loading=\"lazy\"></p>\n\t"
+    },
+    {
+      "path": "/oplata-i-dostavka.html",
+      "title": "Оплата и Доставка",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p>На сегодняшний день вы можете выбрать 3 вида доставки:</p>\n<p>* Доставку курьером в г. Москве в пределах МКАД</p>\n<p>* Самовывоз  по адресу: МО, Пятницкое ш., 20й км</p>\n<p>* Доставка по регионам любой транспортной компанией.</p>\n<p> </p>\n<p>    </p>\n<p> </p>\n<p>     </p>\n<p> </p>\n<p> </p>\n<p> </p>\n\t"
+    },
+    {
+      "path": "/partneram.html",
+      "title": "Партнерам",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p> <img src=\"/images/i%207.jpg\" alt=\"Иллюстрация\" loading=\"lazy\"></p>\n<p> <span><strong><span>Несмотря на развитую партнерскую сеть мы всегда открыты к сотрудничеству с компаниями и индивидуальными предпринимателями в области антикражного оборудования, расходных противокражных материалов, систем безопасности. При долгосрочном сотрудничестве действуют накопительные дисконтные программы, а также гибкие условия оплаты. Мы всегда стараемся найти индивидуальный подход к каждому клиенту.</span></strong></span></p>\n<p><strong><em><span>Сотрудничая с нами Вы инвестируете в будущее</span>!</em></strong></p>\n\t"
+    },
+    {
+      "path": "/poluchit-kosultatsiyu.html",
+      "title": "Получить консультацию",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p>Получить косультацию</p>\n\t"
+    },
+    {
+      "path": "/privacy/",
+      "title": "Условия работы сайта",
+      "contentHtml": "\n\n\n\n\n\n\n\t<p>Соглашаясь с Условиями работы сайта (далее – Условия) и оставляя свои данные на сайте detag.ru (далее – Сайт), путем заполнения полей онлайн-заявки Пользователь:</p>\n<ul>\n<li>\n<p>подтверждает, что указанные им данные принадлежат лично ему;</p>\n</li>\n<li>\n<p>признает и подтверждает, что он внимательно и в полном объеме ознакомился с настоящими Условиями;</p>\n</li>\n<li>\n<p>признает и подтверждает, что все положения настоящего Условий ему понятны;</p>\n</li>\n<li>\n<p>дает согласие на обработку Сайтом предоставляемых данных в целях для идентификации Пользователя, как клиента и связи с Пользователем для оказания услуг;</p>\n</li>\n<li>\n<p>выражает согласие с данными Условиями без каких-либо оговорок и ограничений.</p>\n</li>\n</ul>\n<p>Настоящее Условия применяются в отношении обработки следующих данных:</p>\n<ul>\n<li>\n<p>номера телефонов;</p>\n</li>\n<li>\n<p>адресах электронной почты.</p>\n</li>\n</ul>\n<p>Пользователь, предоставляет Сайту detag.ru право осуществлять следующие действия (операции) с пользовательскими данными:</p>\n<ul>\n<li>\n<p>сбор и накопление;</p>\n</li>\n<li>\n<p>уточнение (обновление, изменение);</p>\n</li>\n<li>\n<p>использование в целях связи с Пользователем для указания услуг;</p>\n</li>\n<li>\n<p>уничтожение.</p>\n</li>\n</ul>\n<p>Данные, собираемые на сайте, используются только для исполнения конкретного договора.</p>\n<p>Отзыв согласия с Условиями работы сайта может быть осуществлен путем направления Пользователем соответствующего распоряжения в простой письменной форме на адрес электронной почты: </p><p>sales@detag.ru</p>.\n<p>Сайт не несет ответственности за использование (как правомерное, так и неправомерное) третьими лицами информации, размещенной Пользователем на Сайте, включая её воспроизведение и распространение, осуществленные всеми возможными способами.</p>\n<p>Сайт имеет право вносить изменения в настоящие Условия. При внесении изменений в актуальной редакции указывается дата последнего обновления. Новая редакция Условий вступает в силу с момента ее размещения, если иное не предусмотрено новой редакцией Условий.</p>\n<p>Действующая редакция всегда находится на странице по адресу: <a href=\"/privacy/\">http://detag.ru/privacy/</a></p>\n\t"
+    }
+  ]
+}

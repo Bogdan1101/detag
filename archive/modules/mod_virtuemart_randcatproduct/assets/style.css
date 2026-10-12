@@ -1,0 +1,52 @@
+#mod_rand {width:100%;clear:both;display:block;overflow:hidden;}
+#mod_rand .mod_rand_clear {clear:both;display:block;width:100%;}
+#mod_rand .mod_rand_product {float:left;display:block;width:100%;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap {padding:5px;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap .mod_rand_image {display:block;width:100%;text-align:center;height:100px;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap .mod_rand_image a {display:block;width:100%;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap .mod_rand_image img {max-height:100px;width:auto;margin:auto;float:none;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap .mod_rand_naz {text-align:center;display:block;clear:both;width:100%;}
+#mod_rand .mod_rand_product .mod_rand_product_wrap .mod_rand_price {width:100%;clear:both;display:block;text-align:center;}
+
+#mod_rand ul li {float:left;display:block;}
+.d-carousel {margin:auto;}
+.jcarousel-direction-rtl {direction: rtl;}
+.d-carousel .jcarousel-container {display: block;overflow: hidden;padding-bottom:40px;}
+.d-carousel .jcarousel-next-horizontal {
+	position: relative;
+	top: 10px;
+	float:right;
+	display:block;
+	width: 15px;
+	height: 28px;
+	cursor: pointer;
+	background: transparent url(blog-arrows.png) no-repeat top right;
+	margin-right:20px;
+}
+.d-carousel .jcarousel-direction-rtl .jcarousel-next-horizontal {
+	left: 5px;
+	right: auto;
+	background-image: url(blog-arrows.png);
+}
+.d-carousel .jcarousel-next-horizontal:hover {
+	background-position: bottom right;
+}
+.d-carousel .jcarousel-prev-horizontal {
+position: relative;
+	top: 10px;
+	float:left;
+	display:block;
+	width: 15px;
+	height: 28px;
+	cursor: pointer;
+	background: transparent url(blog-arrows.png) no-repeat top left;
+	margin-left:20px;
+}
+.d-carousel .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+	left: auto;
+	right: 5px;
+	background-image: url(blog-arrows.png);
+}
+.d-carousel .jcarousel-prev-horizontal:hover {
+	background-position: bottom left;
+}

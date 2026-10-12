@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Все новости</title>
+		<description></description>
+		<link>https://detag.ru/allnews.html</link>
+		<lastBuildDate>Mon, 12 Oct 2026 19:11:29 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://detag.ru/allnews.feed?type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Euroshop 2017</title>
+			<link>https://detag.ru/allnews/19-novaya-novost.html</link>
+			<guid isPermaLink="true">https://detag.ru/allnews/19-novaya-novost.html</guid>
+			<description><![CDATA[<p> </p>
+<p> </p>
+<p><strong><img src="https://detag.ru/images/euroshop heade.png" border="0" alt="" /></strong></p>
+<p><strong>EuroShop</strong><span> 2017 – многогранный выставочный проект, в центре которого – розничная торговля. Крупнейшая бизнес-площадка для специалистов ритейл-индустрии открывает двери раз в три года.  Немецкие и зарубежные эксперты обсуждают современные концепции ведения продаж, не упуская из виду смежные сектора: торговое оборудование, маркетинг и реклама, инфраструктура.</span></p>]]></description>
+			<author>info@site60minut.ru (Admin)</author>
+			<category>Новости</category>
+			<pubDate>Wed, 01 Feb 2017 10:16:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

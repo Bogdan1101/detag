@@ -1,0 +1,2501 @@
+{
+  "source": "https://detag.ru/",
+  "started_at": "2026-10-12T19:11:14Z",
+  "finished_at": "2026-10-12T19:12:05Z",
+  "pages": 57,
+  "downloaded": 220,
+  "failures": [
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BankGothic/bankgothic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.svg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-1.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-2.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-3.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-4.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://detag.ru/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/",
+      "path": "index.html",
+      "bytes": 42080,
+      "sha256": "8230a3193231d7d432d476d4cfc93db4108b660d09eb5d14b365d79b8f796b46"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",
+      "status": 200,
+      "type": "text/javascript; charset=UTF-8",
+      "final_url": "https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",
+      "path": "_vendor/ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",
+      "bytes": 91668,
+      "sha256": "232066e3f6f1351afdaee1acb70c409766641fd5669e0b55ce7c77fac0a857ef"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+      "status": 200,
+      "type": "text/javascript; charset=UTF-8",
+      "final_url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+      "path": "_vendor/ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+      "bytes": 201875,
+      "sha256": "72d9830a52597d534ae8f47eabb35eef20d343180a2e06417b7aa9784fc8e40c"
+    },
+    {
+      "url": "https://detag.ru/aktsii.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/aktsii.html",
+      "path": "aktsii.html",
+      "bytes": 19581,
+      "sha256": "bd18dd69ddaab715e6a5317aff27bb7e480716c76d45b67bdc96811506871996"
+    },
+    {
+      "url": "https://detag.ru/allnews/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/allnews/",
+      "path": "allnews/index.html",
+      "bytes": 21423,
+      "sha256": "a6a5a2a5281555e8a1528a283235d2ee282feade39ca4c24de71f7398bbf07fe"
+    },
+    {
+      "url": "https://detag.ru/allnews/19-novaya-novost.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/allnews/19-novaya-novost.html",
+      "path": "allnews/19-novaya-novost.html",
+      "bytes": 20331,
+      "sha256": "a2f655e8d1014e5fd60ca667de9d3764368bb3cc9e2e355fe549263e000179ac"
+    },
+    {
+      "url": "https://detag.ru/catalog.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog.html",
+      "path": "catalog.html",
+      "bytes": 22405,
+      "sha256": "aa356d20baefe437ba653e7bc94f7bb66392a5cb000d68decb9dfddbebc6fbcf"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/cart.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/cart.html",
+      "path": "component/virtuemart/cart.html",
+      "bytes": 26766,
+      "sha256": "cda8c9c8ec093d48ed4b9970f6c502b2460b303cad304778642b35c057c501cf"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy.html",
+      "bytes": 31337,
+      "sha256": "766fbf6fb87ee7b30443ff64c3b524300a9b13d9456948c432437daf3b34db50"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary.html",
+      "bytes": 31808,
+      "sha256": "b4fb87457fa1a5935fa5bfa2a1635a2964f6eaebe413c563236c6ab7237aba1f"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-belaya-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-belaya-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-belaya-detail.html",
+      "bytes": 31060,
+      "sha256": "fd011f7c1474fbfc173acea9edd5d7926631a1bdc6a672b13c9c532110b83483"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/butylochnyj-datchik-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/butylochnyj-datchik-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/butylochnyj-datchik-detail.html",
+      "bytes": 31029,
+      "sha256": "eb6bd6ea6eecf726608f5455a11a5815e451436ede509cb752ebe1bc95c6f423"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-40kh50-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-40kh50-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-40kh50-detail.html",
+      "bytes": 31119,
+      "sha256": "4927e6cd7bf18ee8ee9b62e3e63551058afa84bbc3509e4d3ce72c96fe029c3d"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-golg-d-63-mm-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-golg-d-63-mm-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-golg-d-63-mm-detail.html",
+      "bytes": 30759,
+      "sha256": "cfc8faf508044f1946f8911593ad9ea55b80e6a551222e0155711b43f0b11464"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-midi-d-54-mm-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-midi-d-54-mm-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-midi-d-54-mm-detail.html",
+      "bytes": 31065,
+      "sha256": "50c3d8e68c00ec125618c7f25ed12d154693dc22694f4535b4421b3ef056d6b6"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-mini-d-45-mm-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-mini-d-45-mm-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-rakushka-designer-mini-d-45-mm-detail.html",
+      "bytes": 31105,
+      "sha256": "6b2821759f6d2acd2164d77a45772c265129fc57fd7d564da5edcd0a7fbbb6d5"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/spetsialnye-datchiki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/spetsialnye-datchiki.html",
+      "path": "component/virtuemart/spetsialnye-datchiki.html",
+      "bytes": 27418,
+      "sha256": "5d30a6e0f1a31f165e6f120075800b0dc1032294daaf4a3fe41a2c02f6baf5b0"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/zashchitnye-boksy-sejfery.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/zashchitnye-boksy-sejfery.html",
+      "path": "component/virtuemart/zashchitnye-boksy-sejfery.html",
+      "bytes": 31331,
+      "sha256": "d9f1b0e27aea4a6cb670a6397f7d801a7e470b7546ea24a50dab31a8f03da2f7"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/css/facebox.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/css/facebox.css",
+      "path": "components/com_virtuemart/assets/css/facebox.css",
+      "bytes": 1309,
+      "sha256": "e5b0b0d235c2ccdc9df1394fcfa3ceee6d0c1c26fd46c1ad6c87df84bd803f76"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/css/vmsite-ltr.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/css/vmsite-ltr.css",
+      "path": "components/com_virtuemart/assets/css/vmsite-ltr.css",
+      "bytes": 22734,
+      "sha256": "f1dcd97b3e957f527bef48ffd1400fdd32fd1299eca4cadd764586f4db282944"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/facebox/closelabel.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/facebox/closelabel.png",
+      "path": "components/com_virtuemart/assets/images/facebox/closelabel.png",
+      "bytes": 168,
+      "sha256": "3792a485ee43385b7848dd725ae759c70fa7acd82328ffced4ab269ef3e5bb76"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/facebox/loading.gif",
+      "status": 200,
+      "type": "image/gif",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/facebox/loading.gif",
+      "path": "components/com_virtuemart/assets/images/facebox/loading.gif",
+      "bytes": 2767,
+      "sha256": "81ea81be1d862d36c34b6dc4f12aefb87b656e319003263d8274974b48ccf869"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/js/facebox.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/js/facebox.js",
+      "path": "components/com_virtuemart/assets/js/facebox.js",
+      "bytes": 10304,
+      "sha256": "cad303e91e0fd43c855114ebf799b2ab604cb36386f47e6aea683e9a6112d696"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/js/jquery.noConflict.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/js/jquery.noConflict.js",
+      "path": "components/com_virtuemart/assets/js/jquery.noConflict.js",
+      "bytes": 20,
+      "sha256": "844a36c2c43704c5ae846d0f52093463bc6e84d547d04528eefb6313129e570f"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/js/jquery.ui.autocomplete.html.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/js/jquery.ui.autocomplete.html.js",
+      "path": "components/com_virtuemart/assets/js/jquery.ui.autocomplete.html.js",
+      "bytes": 1063,
+      "sha256": "7043b0c9a96d1a760053d3615b1e83e3106c8760559ce32326607a3b17204911"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/js/vmprices.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/js/vmprices.js",
+      "path": "components/com_virtuemart/assets/js/vmprices.js",
+      "bytes": 4670,
+      "sha256": "63a8c9eab0f43e1878204e89a8df7b6962c75222e0cb02a01ec77069c7aa59cc"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/js/vmsite.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/js/vmsite.js",
+      "path": "components/com_virtuemart/assets/js/vmsite.js",
+      "bytes": 2965,
+      "sha256": "462c262a1d6706bd4249baf1a9c3514047b33f09d3ca4019dab85e3750045a37"
+    },
+    {
+      "url": "https://detag.ru/cookies.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/cookies.html",
+      "path": "cookies.html",
+      "bytes": 25742,
+      "sha256": "fb48e387cdfc4b79f46f662d6f24f8eaeb6ce7f54f335a2c5a20156f994e664b"
+    },
+    {
+      "url": "https://detag.ru/images/euroshop%20heade.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/euroshop%20heade.png",
+      "path": "images/euroshop heade.png",
+      "bytes": 6102,
+      "sha256": "3490905dbf574414db1cd94913fb2c6d67e69c273e6d87ca488e1f39fadbcdff"
+    },
+    {
+      "url": "https://detag.ru/images/logo.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/logo.png",
+      "path": "images/logo.png",
+      "bytes": 17837,
+      "sha256": "c1303ff4db359cc46bec1fd5fff63f9d786976e95a0d7781a86b6c592dbee4d1"
+    },
+    {
+      "url": "https://detag.ru/images/logo2.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/logo2.png",
+      "path": "images/logo2.png",
+      "bytes": 12964,
+      "sha256": "2faf385b5687d85805b40275383bbf48294f59a4cbd6c3566688c79a0e824bae"
+    },
+    {
+      "url": "https://detag.ru/images/promo/promo.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/promo/promo.jpg",
+      "path": "images/promo/promo.jpg",
+      "bytes": 521510,
+      "sha256": "3d6f82dd67e29590067d28e00fae64beaf94d2f3911ee7569d8d366367b96d23"
+    },
+    {
+      "url": "https://detag.ru/images/promo/promo2.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/promo/promo2.jpg",
+      "path": "images/promo/promo2.jpg",
+      "bytes": 318663,
+      "sha256": "d54267fbd9c59e0aa13ca067a844c0977eaabaeb3b5ebd6c0355e0a37a967516"
+    },
+    {
+      "url": "https://detag.ru/images/promo1.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/promo1.jpg",
+      "path": "images/promo1.jpg",
+      "bytes": 95171,
+      "sha256": "c131970d43fdec49dd820e6dc6fe92149a80f06e0568fa7d00303380d6b611c5"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/13956_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/13956_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/13956_200x200.jpg",
+      "bytes": 10279,
+      "sha256": "bf2bdcc0c1b5f75f22827f30c2a1921677db91eb5eba3f71c4f163ee1d4fae1a"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/bottle_tag_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/bottle_tag_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/bottle_tag_200x200.jpg",
+      "bytes": 19516,
+      "sha256": "91a50079d38eb5152ff0d8ff596e487a6a863b13737aa1bbbd5ac11e999b8e9e"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20rakushka%20mini_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20rakushka%20mini_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/datchik rakushka mini_200x200.jpg",
+      "bytes": 12169,
+      "sha256": "9be583f89ddf7d2e3f23dfbc8fae4f3274e733f8b46266fb6a5ddb8322758b74"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20rakushka2_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20rakushka2_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/datchik rakushka2_200x200.jpg",
+      "bytes": 17864,
+      "sha256": "b95263f8c17a82fc10dfc899ba1cb836e2f257c0e94fd51f42c7c2738960290e"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/img_0024_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/img_0024_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/img_0024_200x200.jpg",
+      "bytes": 24056,
+      "sha256": "5e41c1a556390eb80c7fc2229128605be9479793c901d222a1a3688f31232d24"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/t-001%20(mini%20square)_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/t-001%20(mini%20square)_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/t-001 (mini square)_200x200.jpg",
+      "bytes": 7781,
+      "sha256": "66ccaf60670c1e2e672764ad48dfdf116ffb335c9d2146bdb810e66c5fc7068e"
+    },
+    {
+      "url": "https://detag.ru/img/tg.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "final_url": "https://detag.ru/img/tg.svg",
+      "path": "img/tg.svg",
+      "bytes": 929,
+      "sha256": "8fe1a89840073cdfdde28c8b435181512cc4b375ff7db9ffb45f2b58e2654b90"
+    },
+    {
+      "url": "https://detag.ru/img/wh.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "final_url": "https://detag.ru/img/wh.svg",
+      "path": "img/wh.svg",
+      "bytes": 4429,
+      "sha256": "830539875d4ce7f5e168e996bc48d1cd1eb2f9fc2523c33bfcb865639990f117"
+    },
+    {
+      "url": "https://detag.ru/kontakty.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/kontakty.html",
+      "path": "kontakty.html",
+      "bytes": 21538,
+      "sha256": "612eeb26ea595ba381f3db030e90710a40827b1c8543c6c37e63e1eb7f0f89e9"
+    },
+    {
+      "url": "https://detag.ru/media/system/js/core.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/media/system/js/core.js",
+      "path": "media/system/js/core.js",
+      "bytes": 4784,
+      "sha256": "ed8f120343683850762fc8fb5e8ee8dc3586a2ad7da5c12ca31ef125628cb15b"
+    },
+    {
+      "url": "https://detag.ru/nashi-klienty.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/nashi-klienty.html",
+      "path": "nashi-klienty.html",
+      "bytes": 19623,
+      "sha256": "f8ae9a92b41571c4315d453d9d23833de9d1c89e23013fdb449197c15165f18e"
+    },
+    {
+      "url": "https://detag.ru/o-kompanii.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/o-kompanii.html",
+      "path": "o-kompanii.html",
+      "bytes": 20947,
+      "sha256": "f17ea7e695a9df358ddd791be7c3c514881c280b9c94a50fe203e0d2afd89b25"
+    },
+    {
+      "url": "https://detag.ru/oplata-i-dostavka.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/oplata-i-dostavka.html",
+      "path": "oplata-i-dostavka.html",
+      "bytes": 20381,
+      "sha256": "0355dbfe079eccbeaa114eefa0e9c43a7ed4e5b11476ea15f2227a6b02f95f81"
+    },
+    {
+      "url": "https://detag.ru/partneram.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/partneram.html",
+      "path": "partneram.html",
+      "bytes": 20650,
+      "sha256": "fb64f82cefa51a3be88c9bda5f7e931dd81214eb31b1a63579c512c38988f94a"
+    },
+    {
+      "url": "https://detag.ru/poluchit-kosultatsiyu.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/poluchit-kosultatsiyu.html",
+      "path": "poluchit-kosultatsiyu.html",
+      "bytes": 21484,
+      "sha256": "38d317ab9c124ef25928555ca42a4fe4d6e5f5832de005ead1629173a2c86d44"
+    },
+    {
+      "url": "https://detag.ru/privacy/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/privacy/",
+      "path": "privacy/index.html",
+      "bytes": 23280,
+      "sha256": "2dcce520fb49ed5319fac9b594c8a4119791c76c27de13b635c7e68c1759510c"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/css/_styles.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/templates/jblank/css/_styles.css",
+      "path": "templates/jblank/css/_styles.css",
+      "bytes": 35887,
+      "sha256": "639e1765f0cd4a48078877f5fb882e7c314c7d12608e945a08a1512aa9a69747"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/css/prettyPhoto.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/templates/jblank/css/prettyPhoto.css",
+      "path": "templates/jblank/css/prettyPhoto.css",
+      "bytes": 14598,
+      "sha256": "5a78326c3e7f08d3d9cce0b85fd448c6bf09092416b2c1528d8e71e586cd24fd"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button3.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/button3.jpg",
+      "path": "templates/jblank/img/button3.jpg",
+      "bytes": 67880,
+      "sha256": "9eaa2a47e8d26af44e58a3755b2dfc8ffed5361039617e027bbeb552429e1e65"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/menu2.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/menu2.jpg",
+      "path": "templates/jblank/img/menu2.jpg",
+      "bytes": 49498,
+      "sha256": "d11ba47728c08465c09be6ee3a00d5b091037d95c2139b896daf4dcc842e3cdc"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/js/jquery.corner.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/templates/jblank/js/jquery.corner.js",
+      "path": "templates/jblank/js/jquery.corner.js",
+      "bytes": 11226,
+      "sha256": "f15814ded1aed91087b027546fce6cb861007dd3c30ae5812f596110fc0cf0ee"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/js/jquery.prettyPhoto.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/templates/jblank/js/jquery.prettyPhoto.js",
+      "path": "templates/jblank/js/jquery.prettyPhoto.js",
+      "bytes": 23225,
+      "sha256": "e963c59260131f3bcd9c2bb7678f734e29a26e2f15fef1e08a3ad12d40502280"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/js/onload.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/templates/jblank/js/onload.js",
+      "path": "templates/jblank/js/onload.js",
+      "bytes": 1896,
+      "sha256": "cc36700e4f809356e35e5a263ba3d2dc4ed8fa755e2491a8e9a0033cedaf11fb"
+    },
+    {
+      "url": "https://detag.ru/allnews.feed?type=atom",
+      "status": 200,
+      "type": "application/atom+xml; charset=utf-8",
+      "final_url": "https://detag.ru/allnews.feed?type=atom",
+      "path": "allnews.__q_7001278a6bfa.feed",
+      "bytes": 2924,
+      "sha256": "90e6b9ac9e1153aada5da6b44d52c5ecc45a738848e516b4b3dd0cad2d10cd57"
+    },
+    {
+      "url": "https://detag.ru/allnews.feed?type=rss",
+      "status": 200,
+      "type": "application/rss+xml; charset=utf-8",
+      "final_url": "https://detag.ru/allnews.feed?type=rss",
+      "path": "allnews.__q_b28a39880f1a.feed",
+      "bytes": 1756,
+      "sha256": "1ef70e5554996772e7dbe9bdcd8383d9b1885557ccf356dc515cec97a59e029a"
+    },
+    {
+      "url": "https://detag.ru/catalog/protivokrazhnye-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/protivokrazhnye-sistemy.html",
+      "path": "catalog/protivokrazhnye-sistemy.html",
+      "bytes": 23796,
+      "sha256": "70ab9828b6f3277d3d01c24a262d8a36a6057245274a107ca13b9a66682d5923"
+    },
+    {
+      "url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary.html",
+      "path": "catalog/raskhodnye-materialy-i-aksessuary.html",
+      "bytes": 24158,
+      "sha256": "e8168a4376c4644c18ed3cfcf8c487c206284d23a600dc703c4a13886a5a8e95"
+    },
+    {
+      "url": "https://detag.ru/catalog/spetsialnye-datchiki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/spetsialnye-datchiki.html",
+      "path": "catalog/spetsialnye-datchiki.html",
+      "bytes": 20663,
+      "sha256": "db42ce98e2895edcc7392911e698ec2c0e4ccf1deaba967a4c7955aa178d8d6b"
+    },
+    {
+      "url": "https://detag.ru/catalog/zashchitnye-boksy-sejfery.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/zashchitnye-boksy-sejfery.html",
+      "path": "catalog/zashchitnye-boksy-sejfery.html",
+      "bytes": 24574,
+      "sha256": "9fcc5991a52a503c8586f8b81144d96c002707113c65c6fc6e3a871a270d730b"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/am-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/am-sistemy.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/am-sistemy.html",
+      "bytes": 31603,
+      "sha256": "9e3fe01bec8b51ab46e08457cda569dede95b45f948af57fbd786130b04ae6ae"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "bytes": 31754,
+      "sha256": "9a84de926217b62fad31cd5d5455d8064e5041961735c7c7c320a5459d3df111"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "bytes": 34397,
+      "sha256": "e07d366fd38a704eb5cd0ada67479a75c5a62802cdc53fef92736656a24e8765"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/s-emniki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/s-emniki.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/s-emniki.html",
+      "bytes": 31578,
+      "sha256": "0ed84c8d06f629c30de0d3900b86397d29121ad96311d8144c9f63bac8bbfade"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "bytes": 31940,
+      "sha256": "8d759f27c06248ea393d3ae79534d0c9852a1bfd48cb60413456729c44182013"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "bytes": 40365,
+      "sha256": "4d735afdbe90f370b7671f439fd0c3a2e283ac0e7e2af186cda6beac42b6df52"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "bytes": 29121,
+      "sha256": "a13b21780279c4f2b618099e08b1878e0df78611aea5264a83ec147c41d2ec4b"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "bytes": 53458,
+      "sha256": "ed69ef90b3b0484a22c9d87a598f5450c38b36d917065dd90d849ea951fd2f02"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/color-stars.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/color-stars.png",
+      "path": "components/com_virtuemart/assets/images/color-stars.png",
+      "bytes": 5752,
+      "sha256": "8931056776ff88a319cca6e05dd869804b6ab7408f597b34d237c71e316e2e8f"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/icon_external_link.gif",
+      "status": 200,
+      "type": "image/gif",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/icon_external_link.gif",
+      "path": "components/com_virtuemart/assets/images/icon_external_link.gif",
+      "bytes": 62,
+      "sha256": "542b3d05844c995b83cac63fd204aac7133bbbd091535933b67e97319643ad5c"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vm2-sprite.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vm2-sprite.png",
+      "path": "components/com_virtuemart/assets/images/vm2-sprite.png",
+      "bytes": 27015,
+      "sha256": "c386307dc82d3a15fd4031f4594a98a42c75bbfceec0aa0d1bb74ef0f7e9bdde"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/arrow_down.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/arrow_down.png",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/arrow_down.png",
+      "bytes": 1253,
+      "sha256": "ca729a6b760b030db7e183b2d050348ddc812c849bc8c34c2614ffa93b2ca12f"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/backgrounds.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/backgrounds.png",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/backgrounds.png",
+      "bytes": 362,
+      "sha256": "60b44629c97f93a96214216ce3690fc4010e82a9b2d981e9fd6b1e24a33fd5ce"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/default_bg.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/default_bg.jpg",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/default_bg.jpg",
+      "bytes": 1228,
+      "sha256": "bd5fc64c83bbb510b339b8df36265229df16956720c6175f655f49fb35d965c8"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/default_hover_bg.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/default_hover_bg.jpg",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/default_hover_bg.jpg",
+      "bytes": 1219,
+      "sha256": "daad2f4f4db0b3fd5341c15e9af3318d8fd3b589e5ac3a2ebaa1976a3b4e80a5"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/next_16x16.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/next_16x16.png",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/next_16x16.png",
+      "bytes": 1407,
+      "sha256": "f4eb95a5ac607d6ef4eb77168f75f55b0b99cf3cf85c9fc8adc673f134988d97"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/previous_16x16.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/previous_16x16.png",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/previous_16x16.png",
+      "bytes": 1394,
+      "sha256": "ff8e011f7f29149abb22d34f54174648dc06f270d9b52d9d5669af7496540d41"
+    },
+    {
+      "url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/quantity-controls.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/components/com_virtuemart/assets/images/vmgeneral/quantity-controls.png",
+      "path": "components/com_virtuemart/assets/images/vmgeneral/quantity-controls.png",
+      "bytes": 1369,
+      "sha256": "ef7c5a49be634650fa87ccc0465dc022a45fc54eadaf7b3d2b60aebfefecbb75"
+    },
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/ACLineRegular/ACLineRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AdineKirnberg/AdineKirnbergRegular/AdineKirnbergRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/AleksandraCRegular/AleksandraCRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BankGothic/bankgothic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/BicubikRegular/BicubikRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Georgia/Georgia.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBold/InglobalBold.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalBoldItalic/InglobalBoldItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalItalic/InglobalItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/InglobalRegular/InglobalRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroInline/IntroInline.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/IntroRegular/IntroRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.svg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Monotype-Corsiva/Monotype-Corsiva-Regular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/Taurus/Taurus.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/fonts/TorhokItalic/TorhokItalic.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/%20%201.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/%20%201.jpg",
+      "path": "images/  1.jpg",
+      "bytes": 52497,
+      "sha256": "e7174551b17a4df218ef80a77d47760bd6997c4e17df31cce4a0c4fa039ddec0"
+    },
+    {
+      "url": "https://detag.ru/images/%20.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/%20.png",
+      "path": "images/ .png",
+      "bytes": 46008,
+      "sha256": "7291e5665cf304908fb6138fa7faa6e529046dae0b1ccd9625edb3f373d5d6af"
+    },
+    {
+      "url": "https://detag.ru/images/144378702342511.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/144378702342511.jpg",
+      "path": "images/144378702342511.jpg",
+      "bytes": 96404,
+      "sha256": "11aab31a6c743d49e333db22b2c77ca52a0bf9cae53bcdddae1ac4178654457f"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-1.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-2.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-3.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/dostavka-4.jpg",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/images/i%207.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/i%207.jpg",
+      "path": "images/i 7.jpg",
+      "bytes": 26883,
+      "sha256": "9d5759a0b1d68cc6e801b0ac02526f592ca436751c408adf71f0d6b49e28e23c"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/3.jpg.13_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/3.jpg.13_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/3.jpg.13_200x200.jpg",
+      "bytes": 28768,
+      "sha256": "bf5e7109e112f2295f4506a289411020e32315d17e6235453cc341f437bc9e9f"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/82729659_w200_h200_94405_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/82729659_w200_h200_94405_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/82729659_w200_h200_94405_200x200.jpg",
+      "bytes": 13523,
+      "sha256": "d1fe269da9cb482fe062123a8635e5c384b1791a3a324b444049c6d16a6bcb5d"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "bytes": 17803,
+      "sha256": "e72eb88605f74fa2a01848a8c5bc706ac1cd5f4cdd80a0612ac4f0819d909c40"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/birki%20antikrazhnye_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/birki%20antikrazhnye_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/birki antikrazhnye_200x200.jpg",
+      "bytes": 21292,
+      "sha256": "690c6b8932ad829fab29fb51f7e4fd3e332f9d6e7fe1992cc668958ba6baa2d0"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/datchiki%20protivokrazhnye_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/datchiki%20protivokrazhnye_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/datchiki protivokrazhnye_200x200.jpg",
+      "bytes": 19404,
+      "sha256": "c4deb60759b4e83e0b148745b0aa443ea7d7e246defcd9f75bdf283b911dc137"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/drs_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/drs_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/drs_200x200.jpg",
+      "bytes": 38310,
+      "sha256": "9a11af0bb2f6de63136d83baf8b3c7a96d77917ba777202e7e74a88ace0444ff"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/i%20(9)_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/i%20(9)_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/i (9)_200x200.jpg",
+      "bytes": 15598,
+      "sha256": "1091fd2358cd3d77cacf341165df64f96ffe9804fd17b9f5ac244c6dc224fbfb"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/ms-canning-food_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/ms-canning-food_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/ms-canning-food_200x200.jpg",
+      "bytes": 19229,
+      "sha256": "ab0eb601e7742a08bec885e600599dcaefd3cfba0a78cfb06da478dc31b52fb8"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/radiochastotnaya%20etiketka_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/radiochastotnaya%20etiketka_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/radiochastotnaya etiketka_200x200.jpg",
+      "bytes": 12591,
+      "sha256": "386225fb00cba49b7cac47271b85dfae5b4a680d3ff79211e832c9b47e63d359"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/s%D1%8Aemnik_200x200.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/s%D1%8Aemnik_200x200.png",
+      "path": "images/stories/virtuemart/category/resized/sъemnik_200x200.png",
+      "bytes": 12782,
+      "sha256": "327d850d929f906e7239649f715d8f2047d1369c795c73c74c2c770b6074946f"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/sd-102b_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/sd-102b_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/sd-102b_200x200.jpg",
+      "bytes": 11760,
+      "sha256": "c8ccbbc2c1d430efcbb33b025ab087727cf9fbb9dd4f8d4e47da21fbfb9083cd"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/category/resized/sd-156b8_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/category/resized/sd-156b8_200x200.jpg",
+      "path": "images/stories/virtuemart/category/resized/sd-156b8_200x200.jpg",
+      "bytes": 11454,
+      "sha256": "ce3a8406b27c71c4f43ada57027a2591b5e1085c3ca1478a6acfacc0045b9d51"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/13956.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/13956.jpg",
+      "path": "images/stories/virtuemart/product/13956.jpg",
+      "bytes": 34111,
+      "sha256": "878a71c1c2f3b90af8ee0145a7808d14a55c1c338a35d53c410045fe039c89e5"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/bottle_tag.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/bottle_tag.jpg",
+      "path": "images/stories/virtuemart/product/bottle_tag.jpg",
+      "bytes": 19195,
+      "sha256": "d9ee8e9a1e752846bdd18496e51d210a790a638307d6d6769a518151b0856ba0"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/datchik%20rakushka%20mini.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/datchik%20rakushka%20mini.jpg",
+      "path": "images/stories/virtuemart/product/datchik rakushka mini.jpg",
+      "bytes": 166152,
+      "sha256": "70f2050301677a655df28dd39dae1027bfb0e5e9b7a2f10f41884221c89e0196"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/datchik%20rakushka2.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/datchik%20rakushka2.jpg",
+      "path": "images/stories/virtuemart/product/datchik rakushka2.jpg",
+      "bytes": 55547,
+      "sha256": "c1957822cdd0aca7bbee86f7a75ab52f3a3ccbd629a1102e58e701ebfc7b2283"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/img_0024.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/img_0024.jpg",
+      "path": "images/stories/virtuemart/product/img_0024.jpg",
+      "bytes": 63294,
+      "sha256": "a045a7f890ad3f046189797c7b27ddfd4d94afba012f8b4df167708a64ae0907"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/t-001%20(mini%20square).jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/t-001%20(mini%20square).jpg",
+      "path": "images/stories/virtuemart/product/t-001 (mini square).jpg",
+      "bytes": 61358,
+      "sha256": "8413bac670d207038993311d83a788e20e33409591c7d6a59de8e861a6efbde7"
+    },
+    {
+      "url": "https://detag.ru/media/system/css/modal.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/media/system/css/modal.css",
+      "path": "media/system/css/modal.css",
+      "bytes": 2823,
+      "sha256": "93a425782ebdba877718a517ea6d5ed1ac4573129f3e47888ff796d2a4408e6d"
+    },
+    {
+      "url": "https://detag.ru/media/system/js/modal.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/media/system/js/modal.js",
+      "path": "media/system/js/modal.js",
+      "bytes": 9732,
+      "sha256": "1d44d98509149be106f7f160e40e5049931817efa8a6aecec637ac3f6dcebdd0"
+    },
+    {
+      "url": "https://detag.ru/media/system/js/validate.js",
+      "status": 200,
+      "type": "application/javascript",
+      "final_url": "https://detag.ru/media/system/js/validate.js",
+      "path": "media/system/js/validate.js",
+      "bytes": 2923,
+      "sha256": "9411b3f38649acc84511f66a40d4b7b1fa5718451c51e6eed847e22295669b88"
+    },
+    {
+      "url": "https://detag.ru/modules/mod_virtuemart_randcatproduct/assets/style.css",
+      "status": 200,
+      "type": "text/css",
+      "final_url": "https://detag.ru/modules/mod_virtuemart_randcatproduct/assets/style.css",
+      "path": "modules/mod_virtuemart_randcatproduct/assets/style.css",
+      "bytes": 2027,
+      "sha256": "ca7757de49871a1132f14b701d1f046a7d7d66dd768f7aa36b55f0b69167d34c"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.eot",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.ttf",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/BeerRegular/BeerRegular.woff",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.eot",
+      "status": 200,
+      "type": "application/vnd.ms-fontobject",
+      "final_url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.eot",
+      "path": "templates/jblank/fonts/caption/ptc55f_w.eot",
+      "bytes": 99268,
+      "sha256": "67a332435c819cd8a7fece9c1741b27aef9a202df070160430a2f6e2fdfc7776"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.ttf",
+      "status": 200,
+      "type": "application/font-sfnt",
+      "final_url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.ttf",
+      "path": "templates/jblank/fonts/caption/ptc55f_w.ttf",
+      "bytes": 222980,
+      "sha256": "7a36533920f27ec67fabf6d57c7fd0c288cad6e2e3baa48209ba9eea14707c7e"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.woff",
+      "status": 200,
+      "type": "application/font-woff",
+      "final_url": "https://detag.ru/templates/jblank/fonts/caption/ptc55f_w.woff",
+      "path": "templates/jblank/fonts/caption/ptc55f_w.woff",
+      "bytes": 118992,
+      "sha256": "f3fe2b770264388ed82ecb619b35f0829ad8b39b8c8458be5af5271596a1a94d"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.eot",
+      "status": 200,
+      "type": "application/vnd.ms-fontobject",
+      "final_url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.eot",
+      "path": "templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.eot",
+      "bytes": 25226,
+      "sha256": "9ff4dbddea0852923d67aa349ca815336182897b60e90366e9eed50efb2e8cc8"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.ttf",
+      "status": 200,
+      "type": "application/font-sfnt",
+      "final_url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.ttf",
+      "path": "templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.ttf",
+      "bytes": 52680,
+      "sha256": "ab419b86d7577405b0e2e6a90634afaeae799ddd3921de8c1bb3d0159f9bafa5"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.woff",
+      "status": 200,
+      "type": "application/font-woff",
+      "final_url": "https://detag.ru/templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.woff",
+      "path": "templates/jblank/fonts/pf_din/pfdintextcondpro-medium-webfont.woff",
+      "bytes": 27748,
+      "sha256": "acf545d4a694f4e6b29cade7127d412035cb52c63ce6542072f812495800e349"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/background-button-form.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/background-button-form.png",
+      "path": "templates/jblank/img/background-button-form.png",
+      "bytes": 1654,
+      "sha256": "29168ffca97a1c15b440c2b1d1d6b9ba0f7841e44cbd44b3992bb5965fccf70d"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/background-form.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/background-form.png",
+      "path": "templates/jblank/img/background-form.png",
+      "bytes": 80661,
+      "sha256": "d3474b3b27e820d433f7f36e9f91587dd79d93c325588200785e9490b038e615"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/background-input.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/background-input.png",
+      "path": "templates/jblank/img/background-input.png",
+      "bytes": 600,
+      "sha256": "0677cdb0dfa0ca7c1c6c6ff419e0ce5f22a77caae720c16d1f9c9c71baba6b92"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/background-menu-top.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/background-menu-top.png",
+      "path": "templates/jblank/img/background-menu-top.png",
+      "bytes": 699,
+      "sha256": "2eab7936eb02b8344c48eb30ac4d9eebef3d9837f4cee95104b60783fefdb842"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/bg-left-menu.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/bg-left-menu.jpg",
+      "path": "templates/jblank/img/bg-left-menu.jpg",
+      "bytes": 18279,
+      "sha256": "31a26b3a6063f3bc0ff0caa7f03d9637ff43332b58de16fe3efc0717d9b4cb01"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/bg_input.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/bg_input.png",
+      "path": "templates/jblank/img/bg_input.png",
+      "bytes": 159,
+      "sha256": "6fc8556899a232e8afec7f522c4bab554fd0c449387ccf7bcc65c0e2ccaf84e4"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/bg_user.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/bg_user.png",
+      "path": "templates/jblank/img/bg_user.png",
+      "bytes": 170,
+      "sha256": "24d2755b9a005e1e0e637823d2ef5b1ed3247fc951e83d6cba1acee55acaddb0"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/bg_user_input.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/bg_user_input.png",
+      "path": "templates/jblank/img/bg_user_input.png",
+      "bytes": 930,
+      "sha256": "345307d6ef17ef2151560b0a3f170c98696574cff7c3a94ac79e61c136c9219d"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/bottom-menu-left.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/bottom-menu-left.png",
+      "path": "templates/jblank/img/bottom-menu-left.png",
+      "bytes": 844,
+      "sha256": "858bde12d3d5b6d8631c4ae46c4ab2c3afa9933d1f9553bfce55d414980f9a00"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/branch-bottom.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/branch-bottom.png",
+      "path": "templates/jblank/img/branch-bottom.png",
+      "bytes": 756,
+      "sha256": "c2895f72dcd04da41593a11d511ea12140ff7347ee033da122bb0cdbb7d2745a"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/branch-top.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/branch-top.png",
+      "path": "templates/jblank/img/branch-top.png",
+      "bytes": 704,
+      "sha256": "829043efe124034bea9a2b1b78e9b33777f91aff96fcf758bda875bb55c88f8a"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/branch.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/branch.png",
+      "path": "templates/jblank/img/branch.png",
+      "bytes": 886,
+      "sha256": "ae7ca6dabd9b12383645537f16419a9fca04e68bef6c322a173026de8bb374a5"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/branch_count.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/branch_count.png",
+      "path": "templates/jblank/img/branch_count.png",
+      "bytes": 1371,
+      "sha256": "b99395b6b2093e528687bda0b7d912b109e6b2b86e083d6a5783e8c71c2cf33c"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button-background.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button-background.png",
+      "path": "templates/jblank/img/button-background.png",
+      "bytes": 1516,
+      "sha256": "496da62dad0b89c599977eea08f5304d3c1b3b1ad9d248361ee0cd4615d72063"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button-g.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button-g.png",
+      "path": "templates/jblank/img/button-g.png",
+      "bytes": 1067,
+      "sha256": "41d3675b1552f57dca461541232bebcc546967e1bbac9020610f0f326cf702c9"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button-order.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button-order.png",
+      "path": "templates/jblank/img/button-order.png",
+      "bytes": 142,
+      "sha256": "70083514770c48472b5ea14f0033a602628941e088d783a70b01c5a140bc4fb2"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button-post.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button-post.png",
+      "path": "templates/jblank/img/button-post.png",
+      "bytes": 1633,
+      "sha256": "730e1f1f0d751668adf87f4d02abcf903daf782c9d27e69a42414ea86d3e5117"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button-promo.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button-promo.png",
+      "path": "templates/jblank/img/button-promo.png",
+      "bytes": 4884,
+      "sha256": "9e7faa77f07e529a89949eb9e9a89d00f66c499bf8e7e7e3d9cd511fe3702faa"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button.png",
+      "path": "templates/jblank/img/button.png",
+      "bytes": 4259,
+      "sha256": "b405b0dd768360be97c9ec4081447c0fadb4dd0c8ee6e05377f5017ecd7ea833"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/button2.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/button2.png",
+      "path": "templates/jblank/img/button2.png",
+      "bytes": 10114,
+      "sha256": "c083fcf792ffe269fbd39de31ad56f8527f3e1f4a1a012c858055a3748f38cef"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/circl-form.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/circl-form.png",
+      "path": "templates/jblank/img/circl-form.png",
+      "bytes": 831,
+      "sha256": "e9b1c26300c638e0e7b541400f78bc141c9282a007c9a3678cdc5b4d3f6027a2"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/footer.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/footer.jpg",
+      "path": "templates/jblank/img/footer.jpg",
+      "bytes": 36710,
+      "sha256": "f28abe3b468b786dc78c7e9c3131dbdb6fc04910d617a636d64006817ee77994"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/h1.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/h1.jpg",
+      "path": "templates/jblank/img/h1.jpg",
+      "bytes": 305,
+      "sha256": "54d620837f77c65607346044709dc984f34c66a7308d64bb87ad64f2a6dd3517"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/h2.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/h2.png",
+      "path": "templates/jblank/img/h2.png",
+      "bytes": 134,
+      "sha256": "bda4df54115567043fc4d0c2b2fc7eaaa128238b7f921031fa4e94c8c3d0a1fa"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/header_top.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/templates/jblank/img/header_top.jpg",
+      "path": "templates/jblank/img/header_top.jpg",
+      "bytes": 20117,
+      "sha256": "1657680c6cab1d6427f84ea2a1a10ec484f644eb845294a25df3c46dd24b8bb5"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/btnNext.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/btnNext.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_rounded/btnNext.png",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "bytes": 121,
+      "sha256": "5a1cc6eb414a0707764bff9703e65e3c059b29a34f40ae64be7d6037153d5c68"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/loader.gif",
+      "status": 200,
+      "type": "image/gif",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/loader.gif",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_rounded/loader.gif",
+      "bytes": 2545,
+      "sha256": "ccd39b8ba77b46e92151135ac4749d1fa2e03fb5bc30b475c9ca11b8c95ef64e"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/sprite.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_rounded/sprite.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_rounded/sprite.png",
+      "bytes": 3838,
+      "sha256": "90ee27e2680a77753b43132b8c99c3c048ae47d22f5eefdd82756c3f45d210d9"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/btnNext.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/btnNext.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_square/btnNext.png",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/btnPrevious.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/btnPrevious.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_square/btnPrevious.png",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/contentPattern.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/contentPattern.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_square/contentPattern.png",
+      "bytes": 121,
+      "sha256": "5a1cc6eb414a0707764bff9703e65e3c059b29a34f40ae64be7d6037153d5c68"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/sprite.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/dark_square/sprite.png",
+      "path": "templates/jblank/img/images/prettyPhoto/dark_square/sprite.png",
+      "bytes": 3303,
+      "sha256": "2f4ac2c0cbc9cad4b7e5dcb7dbbf2e3e19173a8e0aeed75c9e364f461bb38fde"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/btnNext.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/btnNext.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_rounded/btnNext.png",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/loader.gif",
+      "status": 200,
+      "type": "image/gif",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/loader.gif",
+      "path": "templates/jblank/img/images/prettyPhoto/light_rounded/loader.gif",
+      "bytes": 2545,
+      "sha256": "68255b5e88e8c44694211d8d86c3460be92bb6f3d1dd252dc0bf783e833cb067"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/sprite.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_rounded/sprite.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_rounded/sprite.png",
+      "bytes": 4008,
+      "sha256": "88b5f19b2693b090014a3bad3e163baaf828bb8de513c31d95dee5fa8d406a4b"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/btnNext.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/btnNext.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_square/btnNext.png",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/btnPrevious.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/btnPrevious.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_square/btnPrevious.png",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/sprite.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/images/prettyPhoto/light_square/sprite.png",
+      "path": "templates/jblank/img/images/prettyPhoto/light_square/sprite.png",
+      "bytes": 3303,
+      "sha256": "2f4ac2c0cbc9cad4b7e5dcb7dbbf2e3e19173a8e0aeed75c9e364f461bb38fde"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/li-border-menu.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/li-border-menu.png",
+      "path": "templates/jblank/img/li-border-menu.png",
+      "bytes": 232,
+      "sha256": "d525a67e3e8e9ac4e6b6eefd69317e42208f1fcfc415fe4d14cdb8c31ee3aa70"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/menu.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/menu.png",
+      "path": "templates/jblank/img/menu.png",
+      "bytes": 45290,
+      "sha256": "5dd2ed4808eca1c9b8edabe6b10381602ba7be20adad27c656369dfe6e2711cd"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/phone.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/phone.png",
+      "path": "templates/jblank/img/phone.png",
+      "bytes": 796,
+      "sha256": "715ca3124f6c36ffb1c43af6dfe45ea3c47707949e8e6d61044b0d2096a8eadd"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/promo.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/promo.png",
+      "path": "templates/jblank/img/promo.png",
+      "bytes": 124993,
+      "sha256": "896e3558903fd81e6f9d0b579a6d89bc6d9073e973a5f47cde14413dfee7220d"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/search.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/search.png",
+      "path": "templates/jblank/img/search.png",
+      "bytes": 464,
+      "sha256": "cf18edd626e80f9672c52c008a48f03b59f0aebbfd45c636b7dd7a90742aee2d"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/submit.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/submit.png",
+      "path": "templates/jblank/img/submit.png",
+      "bytes": 4562,
+      "sha256": "6edafa81a607c5ee630e44306ba0984e0791e6ac8b51be4708a169fe1bc5796f"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/textearia.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/textearia.png",
+      "path": "templates/jblank/img/textearia.png",
+      "bytes": 1100,
+      "sha256": "fadfaa2b3118d90ee9191d0f3f7cc8438bac39c4c096f009de900e216b4be264"
+    },
+    {
+      "url": "https://detag.ru/templates/jblank/img/time.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/templates/jblank/img/time.png",
+      "path": "templates/jblank/img/time.png",
+      "bytes": 668,
+      "sha256": "a56729b6b00930a8636797a1c03dd0fa3a079c18dc41d8380993de1b67eb7533"
+    },
+    {
+      "url": "https://detag.ru/catalog/protivokrazhnye-sistemy/am-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/protivokrazhnye-sistemy/am-sistemy.html",
+      "path": "catalog/protivokrazhnye-sistemy/am-sistemy.html",
+      "bytes": 24037,
+      "sha256": "ecc838d70c49efc4978fed68ca7ee70fbdabfbd2872c71385d929c5d71be9333"
+    },
+    {
+      "url": "https://detag.ru/catalog/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "path": "catalog/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory.html",
+      "bytes": 24174,
+      "sha256": "ba6a73c82804111c2881fa28065ebbc40a6254eb36ddb4fc64de93cf7ab226f8"
+    },
+    {
+      "url": "https://detag.ru/catalog/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "path": "catalog/protivokrazhnye-sistemy/radiochastotnye-sistemy.html",
+      "bytes": 26828,
+      "sha256": "837e8f9a87f1b979c8be7e62aca97e694c91fffbc8a16f1537855b22e9e809e9"
+    },
+    {
+      "url": "https://detag.ru/catalog/protivokrazhnye-sistemy/s-emniki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/protivokrazhnye-sistemy/s-emniki.html",
+      "path": "catalog/protivokrazhnye-sistemy/s-emniki.html",
+      "bytes": 24041,
+      "sha256": "e9a784cdc4c746b54a9304dcd157b9558fe1606037717079c36cf4ed666f90f4"
+    },
+    {
+      "url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "path": "catalog/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya.html",
+      "bytes": 24253,
+      "sha256": "607007dc6adf23d40999238aa9e7a908c6590e245dea55061bb028d33da71f0e"
+    },
+    {
+      "url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "path": "catalog/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya.html",
+      "bytes": 32680,
+      "sha256": "88a539d219f5bb70edfe7f20571ebe15d26d2725f869c270b5156c0428d1839e"
+    },
+    {
+      "url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "path": "catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki.html",
+      "bytes": 21436,
+      "sha256": "1ae321db2de2dcd6b3eddfa90a1247d2133c6df41fe03347e6e204df5706088c"
+    },
+    {
+      "url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "path": "catalog/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30.html",
+      "bytes": 45775,
+      "sha256": "aac0531c818d1bf68eab69191c33fb65b45063d0cc8e10803b51eb562bfc902a"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/am-sistemy/akustomagnitnaya-protivokrazhnaya-sistema-ultra-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/am-sistemy/akustomagnitnaya-protivokrazhnaya-sistema-ultra-detail.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/am-sistemy/akustomagnitnaya-protivokrazhnaya-sistema-ultra-detail.html",
+      "bytes": 31310,
+      "sha256": "315d9fbb61a6446d83f53878f973befa5276c10da88f17cd1a807a1224ab50ed"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory/deaktivator-radiochastotnyj-beskontaktnyj-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory/deaktivator-radiochastotnyj-beskontaktnyj-detail.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/deaktivatory-i-ruchnye-detektory/deaktivator-radiochastotnyj-beskontaktnyj-detail.html",
+      "bytes": 32221,
+      "sha256": "088d2a232820542ac3236d7c647981d1140dea490de6ad2e07ee653ce378af9c"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-101-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-101-detail.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-101-detail.html",
+      "bytes": 30986,
+      "sha256": "a32534b61815ea73c88f7ede2b3f4f9a7fce96089ba018de69bbc6d6f7e2eef2"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-102b-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-102b-detail.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/radiochastotnye-sistemy/radiochastotnaya-protivokrazhnaya-sistema-sd-102b-detail.html",
+      "bytes": 31420,
+      "sha256": "54e1d6f04177095cef552cff9a88d069fe4f39a5ea114888b36ca22a9f6f7444"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/s-emniki/s-emnik-protivokrazhnykh-datchikov-universalnyj-usilennyj-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/protivokrazhnye-sistemy/s-emniki/s-emnik-protivokrazhnykh-datchikov-universalnyj-usilennyj-detail.html",
+      "path": "component/virtuemart/protivokrazhnye-sistemy/s-emniki/s-emnik-protivokrazhnykh-datchikov-universalnyj-usilennyj-detail.html",
+      "bytes": 31470,
+      "sha256": "0c63f3bb4785ccf23f8ffdf7bdcd98ebc878956f922d5b403117b49a620b782e"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya/etiketka-akustomagnitnaya-am-mus-iii-3kh-konturnaya-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya/etiketka-akustomagnitnaya-am-mus-iii-3kh-konturnaya-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-akustomagnitnaya/etiketka-akustomagnitnaya-am-mus-iii-3kh-konturnaya-detail.html",
+      "bytes": 30873,
+      "sha256": "194486d78097db7f0ce39893c90acc9ec8e9894917131090f59826bbc5098529"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-40kh40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "bytes": 31289,
+      "sha256": "fdab9153b4dce3810f4d1080c87d44944cedce91a1f941071dcb9fe714e3b97c"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-belaya-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-belaya-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-belaya-detail.html",
+      "bytes": 30858,
+      "sha256": "8c3bf6f657f9ee6c6437701cb629038daa04379e8d002047974005faad636479"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/etiketka-radiochastotnaya/etiketka-radiochastotnaya-kruglaya-d40-mm-s-lozhnym-shtrikh-kodom-detail.html",
+      "bytes": 31430,
+      "sha256": "c2adacf8cf646a1c237168b21e2f570398c32e25aa8d3be1d4752664c020c3b7"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-antikrazhnyj-mini-pencil-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-antikrazhnyj-mini-pencil-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-antikrazhnyj-mini-pencil-detail.html",
+      "bytes": 30796,
+      "sha256": "fb1678ffd0c615a7e2f685cd3d72f558be1962cb5b360d81201953198989286d"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-mini-square-belyj-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-mini-square-belyj-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-mini-square-belyj-detail.html",
+      "bytes": 30878,
+      "sha256": "2204c3df4b7d1aecaccd999843bb250de51d35d7e8b026360d6a35af6855968a"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-urta-bell-30-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-urta-bell-30-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/datchik-radiochastotnyj-urta-bell-30-detail.html",
+      "bytes": 31079,
+      "sha256": "024cd1a20c00e8509475df8a684629a0373df88c3ab0917b43583030d13c460a"
+    },
+    {
+      "url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/protivokrazhnyj-datchik-bell-tag-detail.html",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "final_url": "https://detag.ru/component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/protivokrazhnyj-datchik-bell-tag-detail.html",
+      "path": "component/virtuemart/raskhodnye-materialy-i-aksessuary/radiochastotnye-datchiki2017-03-02-14-49-30/protivokrazhnyj-datchik-bell-tag-detail.html",
+      "bytes": 30996,
+      "sha256": "103e1a1f4485cc9f761048b4c045d7292602bc04a5522a87bdcfd1d700c4ad4b"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/175336_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/175336_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/175336_200x200.jpg",
+      "bytes": 10489,
+      "sha256": "7ee9315a886374d3032b2309105c52d685dc0589127220a93e80aa6c04afecc4"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/1_15_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/1_15_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/1_15_200x200.jpg",
+      "bytes": 15064,
+      "sha256": "d94fe2560085b196447abe3830e6b859fb43a195bbe06179410fc170c04a9ef4"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/906952adf351b16e947eab55166c1556_200x200.jpg",
+      "bytes": 17803,
+      "sha256": "e72eb88605f74fa2a01848a8c5bc706ac1cd5f4cdd80a0612ac4f0819d909c40"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20urta_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/datchik%20urta_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/datchik urta_200x200.jpg",
+      "bytes": 14549,
+      "sha256": "90b9c92de80deaf09d0dd7e34f9a26137a0a1c6bdb340893c141f6586f05d93d"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/i%20(5)9_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/i%20(5)9_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/i (5)9_200x200.jpg",
+      "bytes": 22352,
+      "sha256": "c70c4f8dd3e3d1701ccad036ff483bb8522f2bf1fd2f40db68e26b82c2d56895"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/i%20(6)_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/i%20(6)_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/i (6)_200x200.jpg",
+      "bytes": 16062,
+      "sha256": "d3113686a570c625263262828e7c9782ffda3fe8fae42f55c89c7a2fe29e5109"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/mini%20pensil%20s%20gvozdikom_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/mini%20pensil%20s%20gvozdikom_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/mini pensil s gvozdikom_200x200.jpg",
+      "bytes": 7459,
+      "sha256": "03b77bcbf8fc88dced9206642fcc85c66411d25adb2ec2747d3b3ab2d6c084c9"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/mini%20square%20belyj_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/mini%20square%20belyj_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/mini square belyj_200x200.jpg",
+      "bytes": 16996,
+      "sha256": "3a8c78cf0be57f784cd9befbc661bd438c3bbcaef8ac327c56fa18a3d07a0498"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/r4_rf_round-500x500_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/r4_rf_round-500x500_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/r4_rf_round-500x500_200x200.jpg",
+      "bytes": 14928,
+      "sha256": "505c80700984bd903536802674404ffcc6048d979ccc1a0885de95d3d82311ab"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/s%D1%8Aemnik_200x200.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/s%D1%8Aemnik_200x200.png",
+      "path": "images/stories/virtuemart/product/resized/sъemnik_200x200.png",
+      "bytes": 12782,
+      "sha256": "327d850d929f906e7239649f715d8f2047d1369c795c73c74c2c770b6074946f"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/sd-102b_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/sd-102b_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/sd-102b_200x200.jpg",
+      "bytes": 11760,
+      "sha256": "c8ccbbc2c1d430efcbb33b025ab087727cf9fbb9dd4f8d4e47da21fbfb9083cd"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/sd-156b_200x200.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/sd-156b_200x200.jpg",
+      "path": "images/stories/virtuemart/product/resized/sd-156b_200x200.jpg",
+      "bytes": 11454,
+      "sha256": "ce3a8406b27c71c4f43ada57027a2591b5e1085c3ca1478a6acfacc0045b9d51"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/resized/sistema%20sd%20101_200x200.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/resized/sistema%20sd%20101_200x200.png",
+      "path": "images/stories/virtuemart/product/resized/sistema sd 101_200x200.png",
+      "bytes": 15639,
+      "sha256": "1ecfc77df852690b74814ba336b6363337377b615cd063e0ecf42e31d1cc5831"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_e.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_e.png",
+      "path": "media/system/images/modal/bg_e.png",
+      "bytes": 97,
+      "sha256": "5b3eb5e38c2d4fa8ecccb5980dae0ee5755f6cdba8bf20500b4602f5aae16e4b"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_n.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_n.png",
+      "path": "media/system/images/modal/bg_n.png",
+      "bytes": 132,
+      "sha256": "646019eb2d205a9231e7907231d032617bb7331263b70cf66174c59e45d0aef1"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_ne.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_ne.png",
+      "path": "media/system/images/modal/bg_ne.png",
+      "bytes": 457,
+      "sha256": "527c9c38b1b7ec2272925664e92de9871fb3f4f92ca9c408f5e448b113d181da"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_nw.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_nw.png",
+      "path": "media/system/images/modal/bg_nw.png",
+      "bytes": 331,
+      "sha256": "277d6d1108e720871b72639e39a2a3869798c360efe26ad37372cb82840789cf"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_s.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_s.png",
+      "path": "media/system/images/modal/bg_s.png",
+      "bytes": 123,
+      "sha256": "eb3ead86dee26eca4b6806b34ec2a74ea15c74ccb12d6b751865bac396c39597"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_se.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_se.png",
+      "path": "media/system/images/modal/bg_se.png",
+      "bytes": 352,
+      "sha256": "113bb841faa5da4c61398dee88773d68b0bc33d59c3994315970d49f5f6003c7"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_sw.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_sw.png",
+      "path": "media/system/images/modal/bg_sw.png",
+      "bytes": 302,
+      "sha256": "c4b5f5692b83a00cf90305458c8bb5e23f39de7b72985d48e8752342a205a4b8"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/bg_w.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/bg_w.png",
+      "path": "media/system/images/modal/bg_w.png",
+      "bytes": 93,
+      "sha256": "ea7c34f31dfc7d9bea9c81a3cc9f19f96d87d5526642ef7bcca432b3837f8b2b"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/closebox.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/media/system/images/modal/closebox.png",
+      "path": "media/system/images/modal/closebox.png",
+      "bytes": 1634,
+      "sha256": "7a6e6d94362b4f8afb35da95a3566821218a93f29fc2ef98a94c72a208ec55e9"
+    },
+    {
+      "url": "https://detag.ru/media/system/images/modal/spinner.gif",
+      "status": 200,
+      "type": "image/gif",
+      "final_url": "https://detag.ru/media/system/images/modal/spinner.gif",
+      "path": "media/system/images/modal/spinner.gif",
+      "bytes": 1569,
+      "sha256": "25bad287bd5ff25d523e43460b10cdd063d900bd21fdcb597fc62bb095f5c3e8"
+    },
+    {
+      "url": "https://detag.ru/modules/mod_virtuemart_randcatproduct/assets/blog-arrows.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/modules/mod_virtuemart_randcatproduct/assets/blog-arrows.png",
+      "path": "modules/mod_virtuemart_randcatproduct/assets/blog-arrows.png",
+      "bytes": 1382,
+      "sha256": "6b88427f0ac28725a99c6458b29bcd911e9c27125672c04d4afabbc7684d4f51"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/175336.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/175336.jpg",
+      "path": "images/stories/virtuemart/product/175336.jpg",
+      "bytes": 4663,
+      "sha256": "a776cbfa5778a3dfd1bd1dd741bc687454deeb4b16684450dbc899f959d4fac3"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/1_15.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/1_15.jpg",
+      "path": "images/stories/virtuemart/product/1_15.jpg",
+      "bytes": 39761,
+      "sha256": "e983895ff65f56f9bc9fe033d7a680fbe735bd58bb41de40f08ee51135829de4"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/906952adf351b16e947eab55166c1556.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/906952adf351b16e947eab55166c1556.jpg",
+      "path": "images/stories/virtuemart/product/906952adf351b16e947eab55166c1556.jpg",
+      "bytes": 15537,
+      "sha256": "de789cccbff2a76a1ab22ace04f3c87d316139c1139c9111b974c4a238c8e97d"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/datchik%20urta.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/datchik%20urta.jpg",
+      "path": "images/stories/virtuemart/product/datchik urta.jpg",
+      "bytes": 12053,
+      "sha256": "9915a336ca39b05ae4a62413e6d2ea505c8e1e04c211020d8f7937bb5b903870"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/i%20(5)9.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/i%20(5)9.jpg",
+      "path": "images/stories/virtuemart/product/i (5)9.jpg",
+      "bytes": 20833,
+      "sha256": "07adb0b90c69e3581a476afc125b8d3ca721da85bcdc03049199193ae7b70042"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/i%20(6).jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/i%20(6).jpg",
+      "path": "images/stories/virtuemart/product/i (6).jpg",
+      "bytes": 9507,
+      "sha256": "1e5dcdcf700449aaf75e2a4450c787f58292e03184089bcbd17cab45451b7245"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/mini%20pensil%20s%20gvozdikom.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/mini%20pensil%20s%20gvozdikom.jpg",
+      "path": "images/stories/virtuemart/product/mini pensil s gvozdikom.jpg",
+      "bytes": 23348,
+      "sha256": "a34a10173a4f9b16d81b414a355e67cdb4720a531c70f1647b4676fa862d0556"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/mini%20square%20belyj.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/mini%20square%20belyj.jpg",
+      "path": "images/stories/virtuemart/product/mini square belyj.jpg",
+      "bytes": 27636,
+      "sha256": "62690ed99d9d96839f8c4131c13857b18f36fe5fc6332c5f20f2dc1b7ab01443"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/r4_rf_round-500x500.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/r4_rf_round-500x500.jpg",
+      "path": "images/stories/virtuemart/product/r4_rf_round-500x500.jpg",
+      "bytes": 28198,
+      "sha256": "24bf7dfb204811f1db68577557f27433c4ecda007d2b617e98e6128f6c3f7ef2"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/s%D1%8Aemnik.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/s%D1%8Aemnik.png",
+      "path": "images/stories/virtuemart/product/sъemnik.png",
+      "bytes": 143311,
+      "sha256": "076ad41c305deb2e2c069927419062f3d9ccf3cc504566c468b5f4610963e987"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/sd-102b.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/sd-102b.jpg",
+      "path": "images/stories/virtuemart/product/sd-102b.jpg",
+      "bytes": 104656,
+      "sha256": "22e117e3acc8e9ba2c7fd238aeda9a61151c0b1cff4073aa451bb5dd1f369870"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/sd-156b.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/sd-156b.jpg",
+      "path": "images/stories/virtuemart/product/sd-156b.jpg",
+      "bytes": 125348,
+      "sha256": "84e3deea1707ba6100bdbebcd97ac78e88373e18c617abd59bdbb05685d4fa3e"
+    },
+    {
+      "url": "https://detag.ru/images/stories/virtuemart/product/sistema%20sd%20101.png",
+      "status": 200,
+      "type": "image/png",
+      "final_url": "https://detag.ru/images/stories/virtuemart/product/sistema%20sd%20101.png",
+      "path": "images/stories/virtuemart/product/sistema sd 101.png",
+      "bytes": 24906,
+      "sha256": "8d3077b4025d9fd556a555b1cd75d62f006370c0f383343c1e3b6169a5f0dfe1"
+    }
+  ]
+}

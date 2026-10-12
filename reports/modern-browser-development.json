@@ -1,0 +1,18 @@
+{
+  "base_url": "http://127.0.0.1:5173",
+  "original_routes_checked": 57,
+  "products": 19,
+  "categories": 12,
+  "javascript_errors": [],
+  "external_requests": [],
+  "http_failures": [],
+  "search_passed": true,
+  "empty_search_passed": true,
+  "cart_quantity_persistence_and_removal_passed": true,
+  "email_drafts_passed": true,
+  "image_dialog_passed": true,
+  "sort_passed": true,
+  "mobile_navigation_passed": true,
+  "responsive_layout_passed": true,
+  "unknown_route_passed": true
+}

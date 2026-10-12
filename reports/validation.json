@@ -1,0 +1,12 @@
+{
+  "pages_checked": 57,
+  "archive_hashes_checked": 220,
+  "errors": [],
+  "source_missing_resources": 51,
+  "expected_missing_references": [
+    "/images/dostavka-1.jpg",
+    "/images/dostavka-2.jpg",
+    "/images/dostavka-3.jpg",
+    "/images/dostavka-4.jpg"
+  ]
+}
