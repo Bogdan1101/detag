@@ -1,0 +1,42 @@
+.promotions-page{padding-top:14px;padding-bottom:50px}
+.promotions-heading{margin-bottom:32px;max-width:850px}
+.promotions-heading h1{font-size:44px;line-height:1.15;font-weight:600;margin:13px 0 17px;letter-spacing:-1.5px}
+.promotions-heading>p{font-size:15px;color:#6b7e8e;margin:0}
+.promotion-banner{display:grid;grid-template-columns:1.15fr 1fr;min-height:450px;overflow:hidden;border:1px solid #dbe6ee;border-radius:16px;background:linear-gradient(120deg,#f5f9fc,#eaf2f9);box-shadow:0 14px 50px #1c54750a}
+.promotion-copy{padding:44px 46px;position:relative;z-index:1}
+.promotion-tag{display:inline-flex;gap:9px;align-items:center;background:#fff;color:#2872a6;border:1px solid #dae7f0;border-radius:24px;padding:9px 13px;font-size:10px;font-weight:700;letter-spacing:1px}
+.promotion-copy h2{font-size:52px;line-height:1.06;letter-spacing:-1.8px;font-weight:600;margin:26px 0 18px;max-width:450px}
+.promotion-threshold{font-size:20px;line-height:1.5;margin:0 0 15px;color:#506b80}
+.promotion-threshold strong{font-size:27px;white-space:nowrap;color:#226ba3;font-weight:600}
+.promotion-description{max-width:410px;font-size:14px;color:#617889;line-height:1.85;margin-bottom:24px}
+.promotion-copy .button{gap:27px}
+.promotion-note{font-size:11px;color:#718898;line-height:1.7;max-width:360px;margin:15px 0 0}
+.promotion-visual{position:relative;display:flex;align-items:center;justify-content:center;min-width:0;isolation:isolate}
+.promotion-orbit{position:absolute;width:380px;height:380px;border:1px solid #cfdfeb;border-radius:50%;z-index:-1;box-shadow:0 0 0 42px #d9e8f250,0 0 0 85px #ddeaf430}
+.promotion-truck{width:min(320px,75%);aspect-ratio:150/110;overflow:hidden;border-radius:18px;position:relative;background:white;box-shadow:0 20px 40px #183f5915;transform:rotate(-5deg);margin-top:-38px}
+.promotion-truck img{width:1066.667%;max-width:none;height:auto;display:block}
+.promotion-route{position:absolute;top:58px;right:31px;padding:10px 14px;border:1px solid #dae5ed;border-radius:25px;background:#fffffff0;font-size:11px;font-weight:500;color:#58778e;display:flex;gap:7px;align-items:center}
+.promotion-price{position:absolute;bottom:42px;right:35px;background:white;border:1px solid #e3ecf3;border-radius:13px;padding:19px 24px;box-shadow:0 12px 35px #183f5910;min-width:226px}
+.promotion-price>span{display:block;font-size:8px;letter-spacing:1px;color:#8098a9;line-height:1.7}
+.promotion-price>strong{font-size:66px;font-weight:600;letter-spacing:-2px;line-height:1.1;color:#226ba3;display:block;margin:6px 0}
+.promotion-price>strong small{font-size:29px;font-weight:500}
+.promotion-price>span:last-child{font-size:10px;letter-spacing:0}
+.promotion-details{display:grid;grid-template-columns:repeat(3,1fr);gap:25px;padding:29px 0 0}
+.promotion-details>div{display:flex;align-items:start;gap:12px;padding:6px 0}
+.promotion-details svg{flex-shrink:0;color:#226ba3;stroke-width:1.6;margin-top:2px}
+.promotion-details strong{display:block;font-size:13px;font-weight:600;margin-bottom:7px}
+.promotion-details span>span,.promotion-details a{font-size:12px;color:#748795;line-height:1.7;display:block}
+.promotion-details a:hover{color:#226ba3}
+/* Give the existing cards more depth and improve small text contrast. */
+.category-card{background:linear-gradient(150deg,#f8fafc,#edf3f7);border-color:#e0e9ef;box-shadow:0 4px 14px #16365004}
+.category-card:hover{box-shadow:0 13px 30px #16365010}
+.category-arrow{border:1px solid #d8e4ec;border-radius:50%;padding:5px;width:30px;height:30px;color:#527b99;background:#ffffff80}
+.product-card{box-shadow:0 3px 14px #15365004}
+.product-card:hover{box-shadow:0 12px 32px #15365012}
+.product-info>.small{color:#667c8d}
+.add-button{border-color:#d3e3ee;background:#eaf3fa}
+.section-head>.text-button{color:#226ba3}
+.nav{gap:23px}
+@media(max-width:1120px){.nav{gap:15px}.nav .nav-consult{display:none}.promotion-copy{padding:36px 32px}.promotion-copy h2{font-size:44px}.promotion-truck{width:80%}.promotion-route{right:20px;top:43px}.promotion-price{right:22px;bottom:33px;padding:16px 20px;min-width:205px}}
+@media(max-width:860px){.nav{gap:12px}.promotion-copy{padding:32px 26px}.promotion-copy h2{font-size:37px}.promotion-threshold{font-size:16px}.promotion-threshold strong{font-size:24px}.promotion-description{font-size:13px}.promotion-price{min-width:185px;right:15px;bottom:29px}.promotion-price>strong{font-size:53px}.promotion-route{font-size:9px;right:14px;top:35px}.promotion-details{gap:16px}.promotion-details strong{font-size:11px}.promotion-details span>span,.promotion-details a{font-size:11px}}
+@media(max-width:640px){.promotions-page{padding-top:5px;padding-bottom:32px}.promotions-heading{margin-bottom:23px}.promotions-heading h1{font-size:34px;letter-spacing:-1px;line-height:1.2;margin-bottom:12px}.promotions-heading>p{font-size:13px}.promotions-heading>.eyebrow{font-size:9px}.promotion-banner{display:flex;flex-direction:column;border-radius:12px;min-height:0}.promotion-copy{padding:27px 24px 14px}.promotion-tag{font-size:9px;padding:8px 11px;letter-spacing:.7px}.promotion-copy h2{font-size:39px;letter-spacing:-1.3px;line-height:1.06;margin:23px 0 18px}.promotion-threshold{font-size:16px;margin-bottom:14px}.promotion-threshold strong{font-size:25px}.promotion-description{font-size:13px;line-height:1.8;margin-bottom:21px}.promotion-copy .button{font-size:12px;gap:22px;min-height:47px}.promotion-note{font-size:10px;margin-top:13px}.promotion-visual{height:286px;margin-top:7px;overflow:hidden}.promotion-orbit{height:255px;width:255px}.promotion-truck{width:225px;max-width:80%;border-radius:12px;margin-top:-42px;transform:rotate(-5deg) translateX(-20px)}.promotion-route{right:17px;top:18px;padding:8px 11px;font-size:9px}.promotion-price{bottom:20px;right:18px;padding:14px 18px;min-width:186px;border-radius:10px}.promotion-price>strong{font-size:53px}.promotion-price>span{font-size:7px}.promotion-price>span:last-child{font-size:9px}.promotion-price>strong small{font-size:23px}.promotion-details{grid-template-columns:1fr;gap:16px;padding-top:24px}.promotion-details>div{gap:12px;padding:0}.promotion-details strong{font-size:12px;margin-bottom:4px}.promotion-details span>span,.promotion-details a{font-size:12px}.nav{gap:0}.category-arrow{width:25px;height:25px;padding:4px;top:11px;right:11px}}

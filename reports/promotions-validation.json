@@ -1,0 +1,111 @@
+{
+  "layouts": [
+    {
+      "width": 1440,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 820,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 820,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 820,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 700,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 700,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 700,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 641,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 641,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 641,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/catalog.html",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/aktsii.html",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/catalog.html",
+      "overflow": false
+    }
+  ],
+  "javascript_errors": [],
+  "consultation_dialog_passed": true
+}
